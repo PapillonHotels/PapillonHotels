@@ -1,1 +1,0 @@
-Papillon Hotels V3. GitHub Pages: main / root. PDF'leri pdf klasörüne ekleyin.
