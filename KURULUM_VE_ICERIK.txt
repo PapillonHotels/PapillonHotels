@@ -1,0 +1,64 @@
+PAPILLON HOTELS — EXCLUSIVE WINE LIST
+TAM KURULUM PAKETİ — 15 EKİM 2026
+
+1. BİLGİSAYARDA AÇMA
+ZIP dosyasını tamamen bir klasöre çıkartın.
+Windows: BASLAT_WINDOWS.bat veya index.html dosyasını açın.
+Mac: index.html dosyasını tarayıcıda açın.
+Dosyaları ZIP'in içinden doğrudan çalıştırmayın.
+Katalog, fotoğraflar, haritalar, video ve ses internet bağlantısı olmadan da çalışır.
+Telefonun dosya önizleyicisi JavaScript/video çalıştırmayabilir; telefonda yayın adresini kullanın.
+
+2. WEB SİTESİNE KURULUM
+Bu klasörün İÇİNDEKİ bütün dosyaları ve alt klasörleri web alanınıza yükleyin.
+index.html hedef klasörün ana dizininde olmalıdır.
+assets/ ve muzik/ klasörlerinin adlarını ve dosya yollarını koruyun.
+PHP, veritabanı, npm veya ücretli eklenti gerekmez; standart statik web barındırma yeterlidir.
+GitHub Pages için bu klasörün içeriğini yayınlanan dalın köküne yükleyebilirsiniz.
+
+3. İÇERİK
+246 şarap; tüm şişe görselleri ve bölge haritaları.
+17 dil: Türkçe, İngilizce, Almanca, Rusça, İspanyolca, Fransızca,
+Romence, Slovakça, Ukraynaca, İtalyanca, Filipince, basitleştirilmiş Çince,
+Japonca, Hintçe, Korece, Flamanca (Belçika Hollandacası), Lehçe.
+Kategori, ülke, metin araması ve beş ayrı gövde aralığı filtresi.
+Gövde seçenekleri: hafif, hafif–orta, orta, orta–tam, tam.
+Altın çerçeveler; altın düğmeler ve yeşil seçim/dokunma durumu.
+Full HD bağ manzarası, küçük karşılama metni ve Papillon altın kelebek logosu.
+Açık inci–adaçayı zemin; telefonda tam genişlikte büyük fotoğraf ve video.
+Header, filtre alanı ve ana içerik normal akışta, büyük boşluklar olmadan yer alır.
+23 saniyelik 1920×1080 karşılama videosu; müzik videonun içine gömülüdür.
+muzik/ klasöründe ayrıca aynı videonun MP3 ve M4A ses dosyaları bulunur.
+Video her sayfa açılışında baştan ve sessiz başlatılır; ilk dokunuşta ses açılır.
+Tarayıcı, pil/veri tasarrufu veya cihaz ayarları otomatik oynatmayı kısıtlayabilir.
+Video bitince durur, sürekli döngüye girmez.
+
+4. DOSYALAR
+index.html: ana sayfa.
+style.css: tasarım ve mobil görünüm.
+app.js: dil seçimi, katalog ve detay pencereleri.
+catalog-core.js: filtre ve arama mantığı.
+welcome.js: video/ses otomatik oynatma davranışı.
+wines.json: 246 şarabın 17 dilde verisi.
+wines-data.js: yerel ve çevrimdışı kullanım için aynı verinin JavaScript kopyası.
+assets/: tüm fotoğraf, şişe görseli, logo, harita ve video dosyaları.
+muzik/: ayrı ses dosyaları.
+DOSYA_LISTESI_SHA256.txt: dosya bütünlüğü listesi.
+
+5. VERİ GÜNCELLEME
+Bu pakette katalog wines-data.js üzerinden yüklenir.
+Şarap verisini güncellerseniz wines.json ve wines-data.js birlikte güncellenmelidir.
+wines-data.js biçimi: window.PAPILLON_WINES=<wines.json içeriği>;
+Bu paket, son yayınlanan sitenin 30. sürümünden hazırlanmıştır.
+Yayın: https://papillon-exclusive-wine-list.nobleduck5.chatgpt.site
+
+PC UYUMLULUĞU
+Masaüstü (1024 piksel ve üzeri): yan yana fotoğraf/video, büyük yazılar ve arama, dört sütunlu katalog.
+Tablet (721–1023 piksel): yan yana görseller, üç sütunlu katalog.
+Telefon (720 piksel ve altı): tam genişlikte görseller, iki sütunlu katalog.
+Windows: ZIP dosyasını tamamen çıkartın, BASLAT_WINDOWS.bat veya index.html dosyasını açın.
+
+TEMİZLENMİŞ TAM PAKET
+Sitede kullanılmayan 396 eski/alternatif görsel dosyası çıkarıldı.
+Menüde kullanılan tüm şişe fotoğrafları, bölge haritaları, logo, manzara, video ve müzik korunmuştur.
+30. sürüm: header, navigasyon/filtre ve ana içerik aralarındaki büyük boşluklar kaldırıldı.
