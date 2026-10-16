@@ -1,0 +1,2685 @@
+{
+  "checked": "2026-10-15",
+  "method": "Exact wine/vintage producer > exact tasting > cuvee > qualified grape/style inference. One body class per red wine; tannin, acidity and blend percentages do not independently determine body.",
+  "records": [
+    {
+      "id": 114,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://kalpak.net/products-and-process/",
+          "title": "Chateau Kalpak – Products & Processes"
+        },
+        {
+          "url": "https://delectable.com/wine/chateau-kalpak/bbk-kirmizi-sek-sarap-red-blend/2010",
+          "title": "BBK 2010 – community tasting"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici BBK’yi ikinci şarap olarak tanımlar; üst küve olduğu iddiası yanlış. Exact 2010 kullanıcı notu medium body der; tek kullanıcı verisi olduğu için sınıf ihtiyatlı çıkarımdır. Üretici 2010/11 kupajında Petit Verdot da listeler.",
+      "summary_tr": "Orta gövdeli; Bordeaux çeşitlerinin meyve ve baharat karakterini taşıyan, olgunlaşmayla tütün ve topraksı tonlar geliştirebilen bir kırmızıdır.",
+      "blend_corrected": "Merlot; Cabernet Sauvignon; Cabernet Franc; Petit Verdot",
+      "blend_correction_source": "https://kalpak.net/products-and-process/"
+    },
+    {
+      "id": 115,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://thequirkycork.com/chateau-kalpak-bbk-2011/",
+          "title": "Andrea Lemieux – BBK 2011"
+        },
+        {
+          "url": "https://kalpak.net/products-and-process/",
+          "title": "Chateau Kalpak – Products & Processes"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact 2011 notunda 14.7% alkol, koyu meyve yoğunluğu, kadifemsi tanen ve uzun bitiş var; açık gövde skalası verilmediği için orta–tam sınıfı sentezdir. BBK üst küve değildir. Üretici 2010/11 için dört üzümü doğrular.",
+      "summary_tr": "Orta–tam gövdeli; koyu meyve, kakao ve baharat çağrışımlarıyla kadifemsi tanen ve uzun bitişi birleştirir.",
+      "blend_corrected": "Merlot; Cabernet Sauvignon; Cabernet Franc; Petit Verdot",
+      "blend_correction_source": "https://kalpak.net/products-and-process/"
+    },
+    {
+      "id": 116,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://kalpak.net/products-and-process/",
+          "title": "Chateau Kalpak – Products & Processes"
+        },
+        {
+          "url": "https://thequirkycork.com/chateau-kalpak-bbk/",
+          "title": "Andrea Lemieux – BBK 2012"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact 2012 tadımı yoğun meyve, havalanmayla reçelimsi damak ve bir miktar ağırlık tarif eder. Tam gövdeyi kesin söylemez; orta–tam seçimi yorumdur.",
+      "summary_tr": "Orta–tam gövdeli; siyah meyve, vanilya ve mocha tonlarıyla yoğun bir profil sunar; havalandıkça meyve karakteri açılır."
+    },
+    {
+      "id": 117,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://kalpak.net/products-and-process/",
+          "title": "Chateau Kalpak – Products & Processes"
+        },
+        {
+          "url": "https://awc-online.awc-vienna.at/winery/2017/5115",
+          "title": "AWC – Chateau Kalpak BBK 2013"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "2013 varlığı doğrulandı fakat exact gövde notu bulunmadı. Üreticinin düşük verimli Bordeaux kupajı, uzun meşe olgunlaşması ve yakın BBK rekolteleriyle orta–tam ihtiyatlı stil çıkarımı; rekolteler arasında uydurma üstünlük sıralaması yapılmadı.",
+      "summary_tr": "Orta–tam gövdeli; Bordeaux kupajının koyu meyve ve baharat karakteriyle meşe olgunlaşmasının katkısını bir araya getiren bir kırmızı stildir."
+    },
+    {
+      "id": 118,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.iwsc.net/results/detail/154089/sevilen-900-cabernet-sauvignon-2018",
+          "title": "IWSC – Sevilen 900 Cabernet Sauvignon 2018"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact IWSC yoğun, zengin ve sıkı meyveli damak; 14% ve14 ay meşe doğrular. Tam sınıfı bu doku/yoğunluk tarifinin sentezidir, sırf Cabernet olduğu için seçilmedi.",
+      "summary_tr": "Tam gövdeli; koyu kiraz ve böğürtlen karakterine mocha, tütün ve bitkisel nüanslar eşlik eder; meyve yoğunluğu ve uzun bitişi belirgindir."
+    },
+    {
+      "id": 119,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.dolucawines.com/products/our-wines-detail/29/sarafin-cabernet-sauvignon",
+          "title": "Doluca – Sarafin Cabernet Sauvignon"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": false,
+      "reason_tr": "Üretici açıkça strong, full bodied tanımlar. 2021’e özel teknik föy değil, aynı küvenin üretici stilidir.",
+      "summary_tr": "Tam gövdeli; olgun koyu meyve, meşe ve baharat karakteriyle yapılı bir Cabernet Sauvignon stilidir."
+    },
+    {
+      "id": 120,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.umurbeyvineyards.com/vineyard-estate",
+          "title": "Umurbey – Vineyard & Estate"
+        },
+        {
+          "url": "https://iwsc.net/results/detail/154127/cabernet-sauvignon-2021",
+          "title": "IWSC – Umurbey Cabernet Sauvignon 2021"
+        },
+        {
+          "url": "https://www.vivino.com/pt-PT/umurbey-cabernet-sauvignon/w/2019441",
+          "title": "Vivino – Umurbey Cabernet Sauvignon"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2019 exact gövde notu yok. Aynı küvenin IWSC2021 13.9%, hafif meşe ve erişilebilir meyve tarifi; Vivino medium ve full yorumları farklılık gösteriyor. Üretici serin deniz etkisi bağlamıyla orta tercih edildi; Reserve ile karıştırılmadı.",
+      "summary_tr": "Orta gövdeli; frenk üzümü ve koyu meyve karakteri, ölçülü meşe ve akıcı bir doku sunan Cabernet Sauvignon stilidir."
+    },
+    {
+      "id": 121,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3058285/ProWein-2026-Suvla-araplar-Exhibitor-prowein2026.3058285-1jeBUtHRSquPOc7R9V4Xqg.pdf",
+          "title": "Suvla – ProWein producer catalogue"
+        },
+        {
+          "url": "https://degustasyon.net/suvla-grand-reserve-cabernet-sauvignon-2020-eceabat/",
+          "title": "Degustasyon – Suvla Grand Reserve Cabernet Sauvignon 2020"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici2020 14.5% ve18 ay meşe doğrular; exact bağımsız tadım dolgun ve süper konsantre der.",
+      "summary_tr": "Tam gövdeli; kırmızı ve siyah meyve, vanilya ve bitter çikolata çağrışımlarıyla yoğun, zengin ve uzun bitişli bir kırmızıdır."
+    },
+    {
+      "id": 122,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.selendiwines.com/",
+          "title": "Selendi Family Vineyards"
+        },
+        {
+          "url": "https://degustasyon.net/selendi-blend-2020-akhisar/",
+          "title": "Degustasyon – Selendi Blend 2020"
+        },
+        {
+          "url": "https://degustasyon.net/selendi-blend-2022-akhisar/",
+          "title": "Degustasyon – Selendi Blend 2022"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "Akhisar Blend ile Moralı Cabernet Blend aynı ürün değildir; Moralı2021 orta notu uygulanmadı. Aynı üst Blend2020 ve2022 gövdeli tarifleriyle tam sınıfı çıkarıldı; exact2021 gövde doğrulanamadı.",
+      "summary_tr": "Tam gövdeli; olgun koyu meyve ve baharat karakteri, meşe nüansları ve belirgin yapıyı birleştiren bir Akhisar kupajıdır."
+    },
+    {
+      "id": 123,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.caeli.com.tr/tr/porta-caeli-baglari",
+          "title": "Porta Caeli – bağlar"
+        },
+        {
+          "url": "https://degustasyon.net/porta-caeli-ament-blend-2020-eceabat/",
+          "title": "Degustasyon – Ament Blend 2020"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact2020 notu gövdeli ve dengeli der; 14.5% ve18ay meşe. Kupaj Cabernet Sauvignon/Cabernet Franc yanında Merlot da içeriyor. Kaynakta tam/full değil gövdeli ifadesi kullanıldığından beşli skalada tam tercihi yoğunluk/doku bilgileriyle yapılan editoryal çıkarımdır.",
+      "summary_tr": "Tam gövdeli; canlı siyah meyve, tatlı baharat ve olgun tanenlerle dengeli, Bordeaux esintili bir kırmızıdır.",
+      "blend_corrected": "Cabernet Sauvignon; Cabernet Franc; Merlot",
+      "blend_correction_source": "https://degustasyon.net/porta-caeli-ament-blend-2020-eceabat/"
+    },
+    {
+      "id": 124,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.skurnik.com/sku/bordeaux-blend-k2-pasaeli-2-2-2-2-2-2-2-2/",
+          "title": "Paşaeli importer – K2"
+        },
+        {
+          "url": "https://degustasyon.net/pasaeli-k2-2018-izmir/",
+          "title": "Degustasyon – K2 2018"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact2018 gövdeli ve etsi doku tarif eder. Dört üzüm doğrulanır; katalogda Cabernet Franc eksik. Kaynakta tam/full değil gövdeli ifadesi kullanıldığından beşli skalada tam tercihi yoğunluk/doku bilgileriyle yapılan editoryal çıkarımdır.",
+      "summary_tr": "Tam gövdeli; olgun meyve ve tütün karakteriyle yoğun dokulu, uzun bitişli bir Bordeaux kupajıdır.",
+      "blend_corrected": "Cabernet Sauvignon; Merlot; Petit Verdot; Cabernet Franc",
+      "blend_correction_source": "https://degustasyon.net/pasaeli-k2-2018-izmir/"
+    },
+    {
+      "id": 125,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.sommelierwineawards.com/winners/winners-2017/old-world/turkey/red",
+          "title": "Sommelier Wine Awards – Urla Tempus 2015"
+        },
+        {
+          "url": "https://iwsc.net/results/detail/141401/urla-tempus-2021",
+          "title": "IWSC – Urla Tempus 2021"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact2021 IWSC15%, meşe ve yoğun meyve doğrular; full-body SWA2015 aynı küve stilini destekler fakat2021 gövde sınıfı sentezdir. Nero d’Avola metni yanlış ve kaldırılmalı.",
+      "summary_tr": "Tam gövdeli; erik ve koyu meyve karakteriyle çiçeksi, baharatlı ve meşe kaynaklı nüanslar sunan yoğun bir kupajdır.",
+      "blend_corrected": "Merlot %35; Cabernet Sauvignon %25; Syrah %20; Cabernet Franc %10; Petit Verdot %10",
+      "blend_correction_source": "https://iwsc.net/results/detail/141401/urla-tempus-2021"
+    },
+    {
+      "id": 126,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.dolucawines.com/products/our-wines-detail/264/alcitepe-cabernet-sauvignon-shiraz",
+          "title": "Doluca – Alçıtepe Cabernet Sauvignon Shiraz"
+        },
+        {
+          "url": "https://degustasyon.net/doluca-alcitepe-c-sauvignon-shiraz-2020-canakkale/",
+          "title": "Degustasyon – Alçıtepe CS Shiraz 2020"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Kirte tek üzüm Cabernet ile karıştırılmadı. Exact kupaj2020 gövdeli, olgun tanenli ve canlı asitli tarif edilir. Kaynakta tam/full değil gövdeli ifadesi kullanıldığından beşli skalada tam tercihi yoğunluk/doku bilgileriyle yapılan editoryal çıkarımdır.",
+      "summary_tr": "Tam gövdeli; koyu meyve ve baharat karakteri, olgun tanen ve canlı asiditeyle dengelenir."
+    },
+    {
+      "id": 127,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://iyisarap.plus/products/corvus-blend-no-10",
+          "title": "Corvus Blend No10 – vintage product data"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact ürün verisi 14.9% ve beş üzüm kupajını doğrular. MSA arama özetleri sorguya göre hem orta hem güçlü-dolgun başlığı getiriyor; sayfa erişilemediğinden bu başlıkların Corvus ile ilişkisi kanıtlanamadı ve sınıflama kanıtı olarak çıkarıldı. Orta–tam, doğrulanan küve bileşimi ve alkolün oluşturduğu muhtemel ağırlık için ihtiyatlı çıkarımdır; exact tadım gövde ölçümü değildir.",
+      "summary_tr": "Orta–tam gövdeli; Cabernet ağırlıklı beş üzüm kupajında koyu meyve, baharat ve meşe karakteri, belirgin fakat dengelenebilen bir yapı oluşturur.",
+      "blend_corrected": "Cabernet Sauvignon %43; Syrah %26; Petit Verdot %16; Merlot %12; Cabernet Franc %3",
+      "blend_correction_source": "https://msa.com.tr/restoran/menu/tr/saraplar"
+    },
+    {
+      "id": 128,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/chamlija-thracian-kirmizi-2019-kirklareli/",
+          "title": "Degustasyon – Thracian Kırmızı2019"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Beyaz Thracian Chardonnay ile karıştırılmadı. Exact kırmızı2019 güçlü gövdeli/masif;15%,24ay meşe. Kupajdaki Merlot/PV eksikliği düzeltildi. Kaynakta tam/full değil gövdeli ifadesi kullanıldığından beşli skalada tam tercihi yoğunluk/doku bilgileriyle yapılan editoryal çıkarımdır.",
+      "summary_tr": "Tam gövdeli; yoğun koyu meyve, tatlı baharat ve mineral çağrışımlarıyla güçlü, uzun bitişli bir kırmızıdır.",
+      "blend_corrected": "Merlot %45; Cabernet Franc %28; Cabernet Sauvignon %24; Petit Verdot %3",
+      "blend_correction_source": "https://degustasyon.net/chamlija-thracian-kirmizi-2019-kirklareli/"
+    },
+    {
+      "id": 129,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.caeli.com.tr/tr/porta-caeli-baglari",
+          "title": "Porta Caeli – bağlar"
+        },
+        {
+          "url": "https://www.yolculukterapisi.com/trakya-caeli/",
+          "title": "Porta Caeli2018 tasting and winery visit"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "Porta Caeli Blend2019 katalog adı Icon/Ament ayrımını tam belirtmiyor. Yakın2018 Porta Caeli gövdeli tarifine dayalı orta–tam ihtiyatlı çıkarım; Ament2019 notu exactmiş gibi kullanılmadı. Etiket fotoğrafıyla cuvee teyidi yararlı.",
+      "summary_tr": "Orta–tam gövdeli; koyu meyve, meşe ve baharat karakteriyle Bordeaux kupajı çizgisinde, yuvarlak dokulu bir kırmızı stilidir."
+    },
+    {
+      "id": 130,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.umurbeyvineyards.com/saraplar",
+          "title": "Umurbey – wines"
+        },
+        {
+          "url": "https://degustasyon.net/umurbey-reserve-cabernet-sauvignon-merlot-2019-tekirdag/",
+          "title": "Degustasyon – Umurbey Reserve2019"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "Reserve2017 doğrudan gövde notu bulunmadı. Reserve2019 güçlü ve gövdeli notu aynı üst küveye aittir; standart Cabernet/Merlot ile karıştırılmadı.",
+      "summary_tr": "Tam gövdeli; koyu meyve, meşe ve baharat karakterini daha yoğun yapıda birleştiren Reserve kupaj stilidir."
+    },
+    {
+      "id": 131,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.lycianwineheritage.com/press-news",
+          "title": "Likya – producer press"
+        },
+        {
+          "url": "https://www.gloria.com.tr/media/PoloBar-Menu_GSR.pdf",
+          "title": "Gloria – Likya Kızılbel"
+        },
+        {
+          "url": "https://www.turizmgazetesi.com/haber/turk-saraplari-madalya-rekoru-kirdi/88157",
+          "title": "2024 competition – Kızılbel Cabernet Sauvignon Boğazkere2021"
+        }
+      ],
+      "scope": "grape_style",
+      "inferred": true,
+      "reason_tr": "Exact2021 kimliği CabernetS/Boğazkere doğrulanır; gövde notu yok. 2018 Merlot/Syrah/Öküzgözü Kızılbel ayrı kupaj olduğundan uygulanmadı. Yayla Cabernet/Boğazkere yapısına dayalı orta–tam çıkarımı; tanen tek başına full gerekçesi değil.",
+      "summary_tr": "Orta–tam gövdeli; Cabernet Sauvignon ve Boğazkere kupajının koyu meyve, baharat ve belirgin tanen karakterini taşıyan bir kırmızı stildir."
+    },
+    {
+      "id": 132,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.caeli.com.tr/tr/porta-caeli-baglari",
+          "title": "Porta Caeli – bağlar"
+        },
+        {
+          "url": "https://degustasyon.net/porta-diverti-kirmizi-2020-eceabat/",
+          "title": "Degustasyon – Porta Diverti2020"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Exact2020 açık orta gövdeli;14.5%,6ay meşe. Yoğun tanen full gövdeye çevrilmedi. Katalogdaki iki üzüm yerine dört üzüm doğrulanır.",
+      "summary_tr": "Orta gövdeli; kırmızı meyve, baharat ve mantarımsı nüanslar sunar; tanenleri belirgin olsa da esnek, bitişi dengelidir.",
+      "blend_corrected": "Cabernet Sauvignon; Cabernet Franc; Merlot; Petit Verdot",
+      "blend_correction_source": "https://degustasyon.net/porta-diverti-kirmizi-2020-eceabat/"
+    },
+    {
+      "id": 133,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/urla-nexus-2021-urla/",
+          "title": "Degustasyon – Nexus2021"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact2021 gövdeli ve güçlü;15%,12ay meşe. Üç üzüm kataloğu doğru; yoğunluğu yalnız Merlot genellemesinden çıkarılmadı. Kaynakta tam/full değil gövdeli ifadesi kullanıldığından beşli skalada tam tercihi yoğunluk/doku bilgileriyle yapılan editoryal çıkarımdır.",
+      "summary_tr": "Tam gövdeli; kırmızı ve siyah meyveye tatlı baharat tonları eşlik eder; yapılı damakta tanenler olgunlaşma yönündedir."
+    },
+    {
+      "id": 134,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/likya-kizilbel-merlot-syrah-okuzgozu-2021-antalya/",
+          "title": "Likya Kızılbel Merlot–Syrah–Öküzgözü 2021 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Aynı rekolte doğrudan orta gövdeli olarak değerlendirilmiş; köşeli tanenler şarabı tam gövdeli yapmaz.",
+      "summary_tr": "Orta gövdeli; deri ve toprak tonlarına havalandıkça tütün ve karanfil nüansları eşlik eder. Tanenleri belirgin ve köşelidir; servis öncesi havalandırma uygundur."
+    },
+    {
+      "id": 135,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.dolucawines.com/products/our-wines-detail/30/sarafin-merlot",
+          "title": "Doluca üretici Sarafin Merlot"
+        },
+        {
+          "url": "https://tasteturkey.com/product/doluca-sarafin-merlot/",
+          "title": "Sarafin Merlot küve bilgisi: medium to full-bodied"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Üretici zengin meyve, kadifemsi doku ve 12 ay Fransız meşesi belirtiyor; tam2021 açık gövde doğrulaması bulunmadı. Aynı küve satıcı sınıfı medium to full ile destekleniyor.",
+      "summary_tr": "Orta–tam gövdeli; zengin meyve karakterini yumuşak ve kadifemsi tanenler tamamlar. Fransız meşe fıçılarından gelen vanilya nüanslarıyla yuvarlak bir yapı sunar."
+    },
+    {
+      "id": 136,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/chamlija-istranca-gelini-2020-kirklareli/",
+          "title": "Chamlija Istranca Gelini 2020 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Aynı2020 notu dolgun, gövdeli ve zengin diyor;15% alkol ve24 ay meşe bilgisi tutarlı. Önceki orta sınıfı hatalı.",
+      "summary_tr": "Tam gövdeli; kırmızı ve siyah meyvelere meşe ve mentol tonları eşlik eder. Güçlü fakat olgun tanenleri ve kalıcı damağıyla zengin bir kupajdır.",
+      "blend_corrected": "Cabernet Sauvignon %37; Merlot %35; Cabernet Franc %28",
+      "blend_correction_source": "https://degustasyon.net/chamlija-istranca-gelini-2020-kirklareli/"
+    },
+    {
+      "id": 137,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.umurbeyvineyards.com/saraplar",
+          "title": "Umurbey üretici şarap portföyü"
+        },
+        {
+          "url": "https://www.vivino.com/en/umurbey-merlot-tr-thrace/w/2326397",
+          "title": "Umurbey Merlot kullanıcı tadım notları"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Üretici sayfasında2019 gövde notu yok. Aynı Merlot küvesinde erişilen Vivino yorumunun mid bodied tarifi orta seçimini destekliyor; farklı yılın Reserve kupajıyla karıştırılmadı.",
+      "summary_tr": "Orta gövdeli; kırmızı orman meyveleri ve yabanmersini tonlarını dengeli asidite ve yumuşak doku tamamlar."
+    },
+    {
+      "id": 138,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.andreas-larsson.com/tasting/chamlija-sui-generis-2019/",
+          "title": "Andreas Larsson Sui Generis 2019 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Aynı2019 tadımı konsantre damak, yoğun meyve ve uzun yoğun bitiş tarif ediyor; açık body kelimesi yok. Orta–tam sınıfı bu doku değerlendirmesinden çıkarım, yalnız Cabernet Franc üzümünden hüküm değil.",
+      "summary_tr": "Orta–tam gövdeli; olgun koyu meyve, siyah frenk üzümü, erik ve kahve tonlarına hafif tütsü ve meşe nüansları eşlik eder. Konsantre damak ve uzun bitiş sunar."
+    },
+    {
+      "id": 139,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3058285/ProWein-2026-Suvla-araplar-Exhibitor-prowein2026.3058285-1jeBUtHRSquPOc7R9V4Xqg.pdf",
+          "title": "Suvla üretici katalog SUR2020 sayfa36"
+        },
+        {
+          "url": "https://degustasyon.net/suvla-sur-2020-eceabat/",
+          "title": "Suvla SUR2020 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici tam2020 için güç, yoğunluk ve derinlik vurguluyor; eleştirmen gövdeli fakat esnek tanenli diyor. Orta–tam tek sınıfı konsantrasyon ve denge üzerinden seçildi. Eski ikiüzümlü açıklama eksik.",
+      "summary_tr": "Orta–tam gövdeli; koyu meyve ve kuru erik tonlarını karabiber, biberiye ve tütün nüansları tamamlar. Yoğun fakat dengeli ve esnek tanenli bir Bordo stili kupajdır.",
+      "blend_corrected": "Merlot; Cabernet Sauvignon; Cabernet Franc; Petit Verdot",
+      "blend_correction_source": "https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3058285/ProWein-2026-Suvla-araplar-Exhibitor-prowein2026.3058285-1jeBUtHRSquPOc7R9V4Xqg.pdf"
+    },
+    {
+      "id": 140,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/suvla-reserve-merlot-2019-eceabat/",
+          "title": "Suvla Reserve Merlot 2019 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2019 notu açıkça orta gövdeli.2020 veya2022 üretici full body açıklaması2019a aktarılmadı. Küçük Cabernet Franc katkısı da doğrulanıyor.",
+      "summary_tr": "Orta gövdeli; olgun kırmızı meyve, tatlı baharat ve meşe nüansları taşır. Olgun, yuvarlak tanenleriyle yumuşak bir damak sunar.",
+      "blend_corrected": "Merlot; az miktarda Cabernet Franc",
+      "blend_correction_source": "https://degustasyon.net/suvla-reserve-merlot-2019-eceabat/"
+    },
+    {
+      "id": 141,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/gulor-signature-malbec-2021-tekirdag/",
+          "title": "Gülor Signature Malbec2021 tadımı"
+        },
+        {
+          "url": "https://www.vivino.com/en/gulor-signature-malbec/w/6246223",
+          "title": "Gülor Signature Malbec küve kullanıcı yorumları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Aynı2021 indekslenmiş tadımda gövdeli, çok yoğun ve köşeli tanenli. Tam sınıfı salt tanenden değil yoğun damak ve aynıküvenin diğer full-bodied değerlendirmesinden seçildi; tam sayfa erişimi engelli, indeks metni görüldü.",
+      "summary_tr": "Tam gövdeli; reçelsi meyve ve baharat tonlarının yanında yoğun, köşeli tanenler taşır. Havalandırmayla ağır ilk kokuları açılan güçlü bir yapı sunar."
+    },
+    {
+      "id": 142,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://thequirkycork.com/turkish-malbec/",
+          "title": "Corvus Malbec2013 karşılaştırmalı tadımı"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2019a ait güvenilir açık gövde notu bulunamadı. Aynı küvenin2013 tadımı zengin, olgun erik karakterli ve karşılaştırmadaki en iri dokulu örnek; orta–tam ihtiyatlı stil çıkarımı.2013 alkol oranı2019a aktarılmadı.",
+      "summary_tr": "Orta–tam gövdeli; olgun erik, tatlı tütün ve baharat tonları kadifemsi tanenlerle birleşir. Canlı asidite zengin meyve karakterini dengeler."
+    },
+    {
+      "id": 143,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://tadim-notlari.com/2022/01/26/nif-baglari-aegean/",
+          "title": "Nif Bağları Aegean2020 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Aynı2020 gövdeli olarak tarif edilmiş ama beşkademe eşdeğeri açık değil.14.5% ve yoğun meyve/baharat dokusuyla orta–tam seçildi; asidite veya tanen tek başına gövde sayılmadı.",
+      "summary_tr": "Orta–tam gövdeli; siyah erik, vişne ve kiraz tonlarına karabiber, menekşe ve hafif meşe nüansları eşlik eder. Havalandıkça meyve belirginleşir; dengeli asiditeyle kalıcı bir damak sunar."
+    },
+    {
+      "id": 144,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://thequirkycork.com/kastro-tireli-alkaia-syrah-mourvedre/",
+          "title": "Kastro Tireli Alkaia2013 tadımı"
+        },
+        {
+          "url": "https://www.sommelierwineawards.com/winners/winners-2016/old-world/turkey/red",
+          "title": "Sommelier Wine Awards Alkaia2013 tadımı"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2020 tamşişe kaynağı bulunamadı; aynı Alkaia küvesi2013 doğrudan fullbody ve yarışma tadımı full palate.2020 için stil çıkarımı;2013 oran ve alkolü aktarılmadı.",
+      "summary_tr": "Tam gövdeli; olgun meyve, erik ve baharat tonlarıyla zengin bir Syrah–Mourvèdre kupajıdır. Yuvarlak tanenleri canlı asidite ve kalıcı bitişle dengelenir."
+    },
+    {
+      "id": 145,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/prodom-blend-2020-aydin/",
+          "title": "Prodom Blend2020 tadımı"
+        },
+        {
+          "url": "https://iwsc.net/results/detail/141397/prodom-syrah-petit-verdot-cabernet-franc-2020",
+          "title": "IWSC Prodom2020 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Tam2020 gövdeli, etli dokulu ve güçlü; tam sınıfı bütün damak dokusundan çıkarım. IWSC aynıbaşlıkta sonüzümü yanlışlıkla CabernetSauvignon veriyor; başlık ve birincilcuvee bilgisi CFyi destekliyor, çelişkili yüzde aktarılmadı.",
+      "summary_tr": "Tam gövdeli; siyah meyve ve baharat tonlarını etli doku ve yoğun fakat esnek tanenler tamamlar. Zengin ve dengeli damak uzun bir bitişe uzanır."
+    },
+    {
+      "id": 146,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://dolucawines.com/products/our-wines-detail/244/sarafin-shiraz-",
+          "title": "Doluca üretici Sarafin Shiraz"
+        },
+        {
+          "url": "https://jastinofflicence.com.tr/en/urun/sarafin-shiraz",
+          "title": "Sarafin Shiraz küve full-bodied açıklaması"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Üretici güçlü yapı, uzun maserasyon ve12ay meşe diyor. Aynıküve ithalatçı full-bodied tarifini destekliyor;2021 birebir tadım bulunmadı.",
+      "summary_tr": "Tam gövdeli; güçlü meyve karakterini belirgin fakat yuvarlak tanenler tamamlar. Fransız ve Amerikan meşesinde olgunlaştırma baharatlı, kalıcı bir yapı kazandırır."
+    },
+    {
+      "id": 147,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3058285/ProWein-2026-Suvla-araplar-Exhibitor-prowein2026.3058285-1jeBUtHRSquPOc7R9V4Xqg.pdf",
+          "title": "Suvla üretici katalog Syrah2021 sayfa30"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Tam2021 üretici notu bodied and fleshy; full-bodied ifadesi sonraki2022de var,2021de yok.2021 kısmi karbonik maserasyon ve14% bilgisiyle orta–tam, Reserve2021le karıştırılmadı.",
+      "summary_tr": "Orta–tam gövdeli; böğürtlen, çilek ve kırmızı erik tonlarına biberiye, nane ve menekşe nüansları eşlik eder. Etli doku, kadifemsi tanenler ve meyvemsi uzun bitiş sunar."
+    },
+    {
+      "id": 148,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3058285/ProWein-2026-Suvla-araplar-Exhibitor-prowein2026.3058285-1jeBUtHRSquPOc7R9V4Xqg.pdf",
+          "title": "Suvla üretici katalog Sır2019 sayfa39"
+        },
+        {
+          "url": "https://degustasyon.net/suvla-sir-2019-eceabat/",
+          "title": "Suvla Sır2019 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici Syrah/Karasakız/PinotNoir ve zarif dokuyu doğruluyor; tam2019 eleştirmen dolgun ama akıcı diyor. Gövdeyi yalnız üzümortalamayla azaltmadan orta–tam tek sınıfı seçildi.",
+      "summary_tr": "Orta–tam gövdeli; koyu orman meyveleri, siyah kiraz ve baharat tonları rafine, yuvarlak tanenlerle birleşir. Kadifemsi dokuya ve kalıcı bir bitişe sahiptir.",
+      "blend_corrected": "Syrah; Karasakız; Pinot Noir",
+      "blend_correction_source": "https://www.prowein.de/vis-content/event-prowein2026/exh-prowein2026.3058285/ProWein-2026-Suvla-araplar-Exhibitor-prowein2026.3058285-1jeBUtHRSquPOc7R9V4Xqg.pdf"
+    },
+    {
+      "id": 149,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://thequirkycork.com/going-supernova-with-hus-sarapcilik/",
+          "title": "Hus Supernova2020 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2020 açık medium-bodied12.8% düşükalkol ve yumuşaktanendi; yalnız Carignan/Alicante koyurenkten tam sınıflandırılamaz.",
+      "summary_tr": "Orta gövdeli; siyah kiraz, frenk üzümü ve tütün tonlarına hafif karamel nüansı eşlik eder. Canlı asidite ve yumuşak tanenler meyvemsi, zarif bir denge sağlar.",
+      "blend_corrected": "Carignan; Alicante",
+      "blend_correction_source": "https://thequirkycork.com/going-supernova-with-hus-sarapcilik/"
+    },
+    {
+      "id": 150,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/hus-carinena-pie-franco-2020-urla/",
+          "title": "Hus Cariñena Pie Franco2020 tadımı"
+        },
+        {
+          "url": "https://m.facebook.com/huswines/photos/carignan-serisinin-tamam%C4%B1-500-litrelik-me%C5%9Fe-f%C4%B1%C3%A7%C4%B1larda-bekletildikten-sonra-%C5%9Fi%C5%9Fel/202675082258777/",
+          "title": "HUS üretici2020 PieFranco15ay meşe bilgisi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Aynı2020 indekslenmiş not gövdeli ve ağdalı diyor. Tam seçimi somut damak kıvamından; yüksekasit tekbaşına değil. Üreticinin2021 11.9% verisi2020ye aktarılmadı.",
+      "summary_tr": "Tam gövdeli; ağdalı damak dokusunu canlılık ve akıcılıkla birleştiren bir Carignan yorumudur. Fransız meşe fıçılarda olgunlaştırılmıştır."
+    },
+    {
+      "id": 151,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/hus-embalse-carinena-2020-urla/",
+          "title": "Hus Embalse Cariñena2020 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Tam2020 gövdeli ve güçlü ama esnek.13.5% ve aynı2020 sommelierkataloğunun orta grubuyla birlikte orta–tam seçildi. Sert tanen varsayımı kullanılmadı; beşkademe eşlemesi yorumdur.",
+      "summary_tr": "Orta–tam gövdeli; siyah kuşüzümü, kuru meyve ve toprak tonları taşır. Esnek, yuvarlak tanenlerinin ardından baharatlı bir bitiş bırakır."
+    },
+    {
+      "id": 152,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/prodom-okuzgozu-kalecik-karasi-2021-denizli/",
+          "title": "Prodom Öküzgözü–Kalecik Karası2021 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Tam2021 notu gövdeli fakat akıcı ve rahat içimli;13.5% ve12ay meşe. Hafif KalecikKarasıgenellemesi yerine bitmişkupaj tadımından orta–tam çıkarıldı.",
+      "summary_tr": "Orta–tam gövdeli; vişne ve siyah kiraz tonlarına hissedilir meşe nüansları eşlik eder. Kadifemsi, esnek tanenler canlı asiditeyle dengelenir; akıcı bir içim sunar."
+    },
+    {
+      "id": 153,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/kavaklidere-selection-kirmizi-2021-dogu-g-dogu/",
+          "title": "Kavaklıdere Selection Kırmızı2021 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2021 açık dolgun gövdeli.2019da başka eleştirmenin orta demesi bu2021e taşınmadı.50/50 Öküzgözü-Boğazkere ve9ay meşe; dengeli fakat hacimli bitmişşarap.",
+      "summary_tr": "Tam gövdeli; olgun kiraz ve mürdüm eriği tonlarını baharat nüansları tamamlar. Güçlü fakat olgun ve yuvarlak tanenleriyle dengeli bir Öküzgözü–Boğazkere kupajıdır."
+    },
+    {
+      "id": 154,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/likya-vineyards-okuzgozu-2019-antalya/",
+          "title": "Likya Vineyards Öküzgözü2019 tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2019 açık orta gövdeli12% ve1100m Elmalı bilgisi. Canlıasit ve yoğuntanen tamgövde demek değil.",
+      "summary_tr": "Orta gövdeli; canlı kırmızı meyve aromaları, belirgin asidite ve olgun, esnek tanenler sunar. Dengeli ve rahat içimlidir; bitişte hafif burukluk hissedilir."
+    },
+    {
+      "id": 155,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://turkishwineisfantastic.com/2020/02/11/corvus-okuzgozu-bogazkere-2015/",
+          "title": "Corvus Öküzgözü Boğazkere 2015 — ilk elden tadım"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2020 için açık gövde notu bulunamadı. Aynı kupajın2015 tadımı full diyor; rekolteyi genellemeden Öküzgözü meyvesi ve Boğazkere yapısı için orta-tam seçildi.",
+      "summary_tr": "Kırmızı ve siyah meyve, baharat ve meşe çağrışımlı, orta-tam gövdeli bir Öküzgözü–Boğazkere kupajı. Rekolteye özel gövde doğrulaması bulunmadığından sınıf, aynı küvenin diğer rekoltesinden yorumlanmıştır."
+    },
+    {
+      "id": 156,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/sevilen-plato-kalecik-karasi-2020-denizli/",
+          "title": "Sevilen Plato Kalecik Karası 2020 — Degustasyon"
+        },
+        {
+          "url": "https://iyisarap.plus/products/sevilen-plato-kalecik-karasi",
+          "title": "Sevilen Plato2020 — çelişen orta gövde tarifi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Degustasyon tam2020 tadımı açıkça dolgun gövdeli der; seçilen full bu somut tadıma dayanır. Bununla birlikte aynı2020 İyişarap ürün sayfası orta gövdeli der: kesin görüş birliği yoktur. IWSC2020 kaydı100%Kalecik Karası kanıtıdır ama12.9%/12ay teknik verileri Degustasyon14.5%/10ay ile uyuşmaz; teknik değerler aktarılmamalıdır.",
+      "summary_tr": "Vişne, siyah kiraz ve erik aromalarıyla baharatlı ve topraksı nüanslar taşır. Tam gövdeli sınıfı2020 Degustasyon tadımına dayanır; başka bir2020 ürün kaynağı daha düşük ağırlık tanımladığından bu yorumda kaynak görüş birliği yoktur.",
+      "blend_corrected": "Kalecik Karası %100",
+      "blend_correction_source": {
+        "url": "https://iwsc.net/results/detail/154033/sevilen-plato-kalecik-karasi-2020",
+        "title": "IWSC2020 grape varietal100%",
+        "scope": "exact"
+      },
+      "source_conflict": "Aynı2020 kaynaklarda orta/tam gövde farklılığı; full yalnızca Degustasyon tadımının sınıfıdır."
+    },
+    {
+      "id": 157,
+      "body": "light_medium",
+      "sources": [
+        {
+          "url": "https://www.gamauk.com/Product_Catalog/Wine_Catalogue.pdf",
+          "title": "Gama UK Prodom Kalecik Karası kataloğu"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Monosepaj Prodom Kalecik Karası kaydı mevcut; ipeksi, ahududulu, meşeli.2020 ağırlık ölçütü yok. Genel üzüm hafif-orta profiliyle temkinli çıkarım; Öküzgözü–Kalecik adlı farklı küveyle karıştırılmadı.",
+      "summary_tr": "Ahududu ve kırmızı meyve karakteri, ipeksi doku ve ince meşe nüansları taşır. Hafif-orta gövdeli sınıfı, küve tarifi ve Kalecik Karası stilinden yorumlanmıştır."
+    },
+    {
+      "id": 158,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/urla-vourla-2022-urla/",
+          "title": "Urla Vourla 2022 — Degustasyon"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2022 tadımı orta gövdeli der.14.5% veya sert tanen full anlamına gelmez.",
+      "summary_tr": "Karadut, vişne ve böğürtlen aromalarıyla baharatlı dokunuşlar taşır. Orta gövdeli, belirgin ve köşeli tanenli bir kupajdır; tanen yoğunluğu gövdeden ayrı değerlendirilmiştir."
+    },
+    {
+      "id": 159,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://turkishwineisfantastic.com/2021/11/09/likya-vineyards-bogazkere-2014/",
+          "title": "Likya Vineyards Boğazkere 2014 — ilk elden tadım"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2013 için tam gövde kanıtı yok; komşu2014 tadımı açıkça medium der. Boğazkere taneni full varsayımı yapılmadı.",
+      "summary_tr": "Kiraz, erik ve baharat karakteri; canlı asidite ve yıllanmayla yuvarlanan tanenler beklenir. Orta gövdeli sınıfı, aynı küvenin2014 tadımından yorumlanmıştır;2013 şişesine ait yeni bir tadım değildir."
+    },
+    {
+      "id": 160,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/doluca-kav-bogazkere-okuzgozu-2018-dogu-guneydogu/",
+          "title": "Doluca Kav2018 Degustasyon"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2020 için tam gövde kanıtı bulunamadı. Aynı kupajın2018 tadımı gövdeli ama akıcı; daha eski rekoltelerde de yoğun yapı var. Full sınıfı yakın rekolte tadımından yorumlanmıştır.",
+      "summary_tr": "Öküzgözü’nün meyvesi ile Boğazkere’nin baharatlı ve tanenli yapısını birleştirir. Tam gövdeli sınıfı, aynı kupajın diğer rekolte tadımlarındaki yoğun yapıdan yorumlanmıştır."
+    },
+    {
+      "id": 161,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.nifbaglari.com/nif-montepulciano-shiraz.html",
+          "title": "Nif üretici Montepulciano & Shiraz"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "Üretici2020 küve sayfası yapılı gövdeli diyor;10ay meşe.2021 için açık sınıf yok, medium-full çıkarımı. Teküzüm Montepulciano/PrivateCollection ile karıştırılmamalı.",
+      "summary_tr": "Böğürtlen, siyah kiraz ve çilek aromalarıyla, belirgin tanen ve kalıcı meyve karakteri taşır. Orta-tam gövdeli sınıfı üreticinin Montepulciano–Shiraz küve tarifinden yorumlanmıştır."
+    },
+    {
+      "id": 162,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/sobran-baglari-nebbiolo-2021-manisa/",
+          "title": "Sobran Nebbiolo2021 Degustasyon"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2021 açık medium;2022 bulunamadı. Nebbiolo yüksek tanen otomatik full değildir.",
+      "summary_tr": "Mayhoş kırmızı meyve, bitkisel nüanslar ve belirgin asiditeyle zarif bir Nebbiolo yorumudur. Orta gövdeli sınıfı aynı küvenin2021 tadımından yorumlanmıştır."
+    },
+    {
+      "id": 163,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://turkishwineisfantastic.com/2024/02/03/selendi-sarnic-cabernet-franc-2021/",
+          "title": "Selendi Sarnıç Cabernet Franc2021"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "2021 tadımı opulent rich smooth structured,15ay oak; doğrudan body kelimesi yok, mediumfull çıkarımı.2019 güçlü gövde destekleyici.",
+      "summary_tr": "Ahududu, yaban mersini, erik ve sıcak baharat nüansları; sedir ve meşe dokunuşları taşır. Orta-tam gövdeli sınıfı,2021 tadımındaki zengin ve dolgun ağız hissinden yorumlanmıştır."
+    },
+    {
+      "id": 164,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/cotes-davanos-tempranillo-2020-kapadokya/",
+          "title": "Côtes d’Avanos Tempranillo2020 Degustasyon"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Gövdeli terimi aşırı kesin full çevrilmedi.14.2%,13ay meşe,enerjik yoğun yapı mediumfull temkinli aralık.",
+      "summary_tr": "Vişne, yaban mersini, mahlep ve mentol çağrışımları taşır. Orta-tam gövdeli; esnek tanenleri canlı asiditeyle dengelenen, enerjik bir Tempranillo yorumudur."
+    },
+    {
+      "id": 165,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.internationalwinechallenge.com/canopy/beverage_details?wid=184077",
+          "title": "Midin Baluto red2021 IWC"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "IWC2021 RaşeGurnik Öküzgözü Boğazkere ve13.5%; juicy dark fruit/leather/spice. Eski15%Baluto başka rekolteyi full dayatmak yanlış. Mediumfull çıkarımı; katalog kupajı eksik görünüyor.",
+      "summary_tr": "Böğürtlen, meyan kökü, deri ve baharat çağrışımlarıyla meyveli bir kırmızıdır. Orta-tam gövdeli sınıfı2021 yarışma tadım notları ve kupajından yorumlanmıştır.",
+      "blend_corrected": "Raşe Gurnik; Öküzgözü; Boğazkere",
+      "blend_correction_source": {
+        "url": "https://www.internationalwinechallenge.com/canopy/beverage_details?wid=184077",
+        "title": "IWC Midin Baluto red2021 grape field",
+        "scope": "exact"
+      }
+    },
+    {
+      "id": 166,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://thequirkycork.com/?p=19723",
+          "title": "Midin Miras red2021 The Quirky Cork"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2021 ilk elden tadım medium-plus body diyor; anaÖküzgözüBoğazkere,küçükGavdoniRaşegurnık.",
+      "summary_tr": "Olgun koyu meyve, sedir, vanilya ve tatlı baharat karakteri taşır. Orta-tam gövdeli; belirgin sıcaklık, orta tanen ve canlı asiditeyle yapı kazanır.",
+      "blend_corrected": "Öküzgözü; Boğazkere; Gavdoni; Raşegurnık",
+      "blend_correction_source": {
+        "url": "https://thequirkycork.com/?p=19723",
+        "title": "The Quirky Cork exact2021 first-hand tasting, producer sample",
+        "scope": "exact"
+      }
+    },
+    {
+      "id": 167,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://degustasyon.net/doluca-dlc-grenache-2021-canakkale/",
+          "title": "DLC Grenache2021 Degustasyon"
+        },
+        {
+          "url": "https://dolucawines.com/products/our-wines-detail/254/dlc-grenache",
+          "title": "Doluca üretici genel küve — farklı genel gövde tarifi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2021 medium.Üretici genel full deyimiyle çelişki var; exactvintage üstün.",
+      "summary_tr": "Erik ve kiraz aromalarına topraksı tonlar eşlik eder. Orta gövdeli, yumuşak tanenli, canlı asiditeli ve rahat içimli bir Grenache yorumudur."
+    },
+    {
+      "id": 168,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://iyisarap.plus/products/suvla-reserve-karasakiz",
+          "title": "Suvla Reserve Karasakız2020 ürün föyü"
+        },
+        {
+          "url": "https://suvla.eu/en/products/suvla-reserve-karasakiz",
+          "title": "Suvla EU2020 üretici küve"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam2020 13.5%,15ay meşe,medium doğrudan.Üretici2020 sayfası da zarif konsantre der.",
+      "summary_tr": "Kiraz, kızılcık, gül ve karanfil aromalarına baharatlı ve isli nüanslar eşlik eder. Orta gövdeli, ince tanenli ve uzun bitişli bir Karasakız yorumudur."
+    },
+    {
+      "id": 169,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.hachette-vins.com/guide-vins/les-vins/ch-haut-mouleyre-eleve-en-fut-de-chene-2020-2024/202476418/",
+          "title": "Haut-Mouleyre fût de chêne2020 Hachette"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Katalog genericBordeaux, kaynak özel oakcuvee; exactclaim yapılmaz. StandartBordeaux kırmızısı için medium temkinli çıkarım, oak cuvee comfortablefresh bilgisi destekleyici.",
+      "summary_tr": "Kırmızı ve siyah meyve, hafif baharat ve meşe nüansları beklenen Bordeaux stilindedir. Orta gövdeli sınıfı küve ve bölge profilinden yorumlanmıştır; tam etiket eşleşmesi doğrulanamamıştır."
+    },
+    {
+      "id": 170,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://milliontd.co.jp/product/dulong/dlns/",
+          "title": "Dulong Reserve Saint-Emilion ithalatçı teknik küve sayfası"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2021 küve95Merlot5CF13.5%,tank élevage,soft round elegant.2019 gövde net değil;mediumstil çıkarımı.",
+      "summary_tr": "Kırmızı meyve, çiçeksi nüanslar ve ince baharatla yumuşak, yuvarlak içim sunan Saint-Émilion stilindedir. Orta gövdeli sınıfı aynı küvenin teknik tarifi üzerinden yorumlanmıştır."
+    },
+    {
+      "id": 171,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.chateaudelamarque.fr/chateau-de-lamarque-2016.html",
+          "title": "Üretici Donjon de Lamarque2016 eleştirmen notları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici2016Donjon bölümünde Suckling91 mediumbody. Grandvin2016 ile ayrıştırıldı.",
+      "summary_tr": "Olgun meyve, vanilya ve hafif topraksı nüanslar taşır. Orta gövdeli, belirgin tanenli ve meyvesiyle dengeli Donjon de Lamarque yorumudur."
+    },
+    {
+      "id": 172,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.monvinfrancais.com/vin/1980-chateau-moutinot-rouge-2017.html",
+          "title": "Château Moutinot2017 doğrudan üretici satış kaydı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "2017 12.5%,CSCFMerlot,puissance et fraîcheur. Body açık yok;SaintEstephe yapıdan mediumfull çıkarımı. GenelVivino2017denönceyazılmışfull yorum2017 kanıtı değildir.",
+      "summary_tr": "Koyu meyve ve baharat çağrışımlı, canlılık ile yapıyı birleştiren Saint-Estèphe stilindedir. Orta-tam gövdeli sınıfı üretici küve ve bölge profilinden yorumlanmıştır; güçlü tanen tek başına ölçüt değildir."
+    },
+    {
+      "id": 173,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.jamessuckling.com/tasting-notes/82323/Ch%C3%A2teau%20de%20Lamarque%20Haut-M%C3%A9doc%202017",
+          "title": "JamesSuckling Château de Lamarque2017"
+        },
+        {
+          "url": "https://chateau-de-lamarque.weebly.com/chateau-de-lamarque-2017.html",
+          "title": "Üretici2017 tadım notları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Exact2017 medium;producer mirror othercriticmedium. Katalog CS/CFblend eksik(Merlot muhtemel) gövdeden ayrı.",
+      "summary_tr": "Koyu meyve, sedir ve çikolata nüanslı klasik Haut-Médoc stilindedir. Orta gövdeli, sıkı tanenli ve meyve odaklıdır; tanenin belirginliği daha yüksek gövdeye taşınmamıştır."
+    },
+    {
+      "id": 174,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.feinste-weine.de/en/products/chateau-cantin-2016-saint-emilion-grand-cru-aop-bordeaux-rotwein-0-75l-14-5-vol",
+          "title": "Château Cantin2016 ürün tadım notu"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Exact2016full14.5%80Merlot10CF10CS. Katalog100Merlot doğru değil.",
+      "summary_tr": "Vişne, koyu meyve, vanilya ve kahve nüansları taşır. Tam gövdeli, yuvarlak dokulu ve zengin meyveli bir Saint-Émilion Grand Cru yorumudur.",
+      "blend_corrected": "Merlot %80; Cabernet Franc %10; Cabernet Sauvignon %10",
+      "blend_correction_source": {
+        "url": "https://www.feinste-weine.de/en/products/chateau-cantin-2016-saint-emilion-grand-cru-aop-bordeaux-rotwein-0-75l-14-5-vol",
+        "title": "Château Cantin2016 product-specific blend",
+        "scope": "exact"
+      }
+    },
+    {
+      "id": 175,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.wine.com/product/chateau-giscours-la-sirene-de-giscours-2019/2192793",
+          "title": "La Sirène de Giscours2019 WineAdvocate ve üretici notları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "WA mediumtofull exact2019.70CS12Merlot9CF9PV; katalog2üzümblend eksik. Falstaffmediumalternatif var ama WA+yoğunlukmediumfull seçildi.",
+      "summary_tr": "Kiraz, erik, çiçek ve baharat nüanslarıyla zengin meyve sunar. Orta-tam gövdeli; ince tanen, canlı asidite ve uzun bitişle dengelenir.",
+      "blend_corrected": "Cabernet Sauvignon %70; Merlot %12; Cabernet Franc %9; Petit Verdot %9",
+      "blend_correction_source": {
+        "url": "https://www.wine.com/product/chateau-giscours-la-sirene-de-giscours-2019/2192793",
+        "title": "Exact2019 Winemaker Notes",
+        "scope": "exact"
+      }
+    },
+    {
+      "id": 176,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.closcantenac.com/vintage/clos-cantenac-2016/",
+          "title": "Clos Cantenac 2016 – üretici"
+        },
+        {
+          "url": "https://www.bbr.com/products-20168115489-2016-clos-cantenac-st-emilion-bordeaux",
+          "title": "BBR Clos Cantenac 2016"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üreticinin yoğun, ağzı dolduran %100 Merlot tanımı ve BBR tam gövde alanı örtüşüyor.",
+      "summary_tr": "Tam gövdeli; siyah erik, kiraz ve frenk üzümüne kakao, kahve ve ölçülü meşe eşlik eder. Konsantre meyvesi ve olgun tanenleriyle zengin bir yapı sunar."
+    },
+    {
+      "id": 177,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.chateauseraphine.com/linnocence-de-seraphine-2019",
+          "title": "L’Innocence de Séraphine 2019 – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici açıkça medium-bodied der; BBR genel full etiketi yerine şişeye özgü üretici notu tercih edildi.",
+      "summary_tr": "Orta gövdeli; olgun koyu meyve, menekşe ve tarçın notaları taşır. Esnek tanenler ve ferah kızılcık çağrışımları meyve zenginliğini dengeler."
+    },
+    {
+      "id": 178,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.wine.com/product/chateau-montrose-2017/422832",
+          "title": "Montrose 2017 – eleştirmen tadımları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2017 Wine Advocate ve güncel William Kelley notları medium-to-full; tanenin gücü tek başına full sayılmadı.",
+      "summary_tr": "Orta–tam gövdeli; siyah meyve, çiçek ve kalem talaşı notalarıyla katmanlıdır. İnce taneli olgun tanenler, canlı tazelik ve uzun bitiş gösterir."
+    },
+    {
+      "id": 179,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://farrvintners.com/wine.php?wine=2613",
+          "title": "La Fleur-Pétrus 2004 – Parker tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Parker 2004 için medium-bodied, elegant der; tüm Pomerolleri tam gövdeli saymak yanlış.",
+      "summary_tr": "Orta gövdeli; kiraz, kuru ot ve meyan kökü çağrışımlarıyla zariftir. Yumuşak tanenleri ve taze meyve dengesi ağır olmayan klasik bir yapı oluşturur."
+    },
+    {
+      "id": 180,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.christies.com/lot/lot-6170386",
+          "title": "Haut-Brion 1999 – Robert Parker notu"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam rekolte Parker notu medium-to-full-bodied.",
+      "summary_tr": "Orta–tam gövdeli; erik, frenk üzümü, mineral ve grafit nüansları taşır. Meyve yoğunluğunu olgun tanenler ve uzun, incelikli bir bitiş dengeler."
+    },
+    {
+      "id": 181,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.bbr.com/products-20048008860-2004-chateau-mouton-rothschild-pauillac-bordeaux",
+          "title": "Mouton Rothschild 2004 – çoklu eleştirmen notları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "LPB medium-to-full; Neal Martin 2024 medium der. Tek medium_full seçimi meyve dolgunluğunu korur; genel ürün full etiketi kesin ölçüm değildir. Sayfadaki kupaj alanları birbiriyle çelişiyor; kupaj için üretici ayrıca teyit edilmeli.",
+      "summary_tr": "Orta–tam gövdeli; frenk üzümü, koyu kiraz, sedir ve baharat nüanslarıyla olgun bir Bordeaux profili taşır. Kadifemsi tanenler ve canlı denge uzun bitişi destekler."
+    },
+    {
+      "id": 182,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.monvinfrancais.com/vin/5931-mercurey-bois-vilain-rouge-2018.html",
+          "title": "Moillard Bois Vilain rouge – ilgili rekolte"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2017 kırmızı için açık gövde değeri bulunamadı; kırmızı küve ve Mercurey stiliyle orta seçildi. Wine Enthusiast 2018 Bois Vilain yazısı BEYAZ Chardonnay; kullanılmadı. Vivino kırmızı sayfada da beyaz yorum karışmış.",
+      "summary_tr": "Orta gövdeli; kırmızı meyve ve ölçülü baharat karakteriyle yapı ile zarafeti bir araya getiren bir Pinot Noir stilidir. Gövde değerlendirmesi ilgili küve ve bölge stiline dayanır."
+    },
+    {
+      "id": 183,
+      "body": "light_medium",
+      "sources": [
+        {
+          "url": "https://www.louisjadot.com/bo/wp-content/pdf/vins/vin-1313-bourgogne-couvent-des-jacobins-rouge.pdf",
+          "title": "Louis Jadot Couvent des Jacobins – üretici föyü"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Üretici bölgesel Pinot ve tank/fıçı dengesi; exact2021 12.5%, ince/fresh stil. Çeviride göz rengi altında full-bodied yazan merchant alanı güvenilir gövde ölçümü sayılmadı.",
+      "summary_tr": "Hafif–orta gövdeli; kırmızı orman meyveleri ve hafif baharat notaları öne çıkar. Esnek tanenleri ve taze, akıcı yapısı bölgesel Pinot Noir karakterini yansıtır."
+    },
+    {
+      "id": 184,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.feinste-weine.de/en/products/2020-gevrey-chambertin-beau-versant-aop-grand-vin-de-bourgogne-moillard",
+          "title": "Moillard Beau Versant 2020 – teknik ve tadım bilgisi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "13%, uzun maserasyon, yoğun fakat zarif tanen; açık body yok. Pinot geneline göre otomatik hafif yerine bu yapı için orta.",
+      "summary_tr": "Orta gövdeli; böğürtlen, yaban mersini, meyan ve kakao notalarıyla aromatiktir. Yoğun fakat düzgün tanenler ve zarif meşe nüansları uzun bitişe eşlik eder."
+    },
+    {
+      "id": 185,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.albert-bichot.com/en/savigny-les-beaune-1er-cru-les-peuillets_86",
+          "title": "Albert Bichot Savigny Premier Cru – üretici"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Katalogda Premier Cru bağ adı yok; Les Peuillets birebir şişe kanıtı değil. Fleshy/delicate tannin ve Savigny Pinot stilinden orta.",
+      "summary_tr": "Orta gövdeli; kiraz, ahududu, frenk üzümü ve baharat nüanslarıyla zariftir. İnce tanen yapısı ve bütünleşmiş meşe karakteri dengeli bir bitiş sağlar."
+    },
+    {
+      "id": 186,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.albert-bichot.com/en/aloxe-corton_23",
+          "title": "Albert Bichot Aloxe-Corton village – üretici"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Village şişe; Premier Cru/Grand Cru ile karıştırılmadı. Etli yapı ve kadifemsi tanen açık full-body demek değildir; orta.",
+      "summary_tr": "Orta gövdeli; olgun ahududu, çilek, baharat ve meşe nüansları taşır. Etli meyve yapısı, kadifemsi tanenler ve uzun meyvemsi bitişle dengelenir."
+    },
+    {
+      "id": 187,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://www.grauonline.eu/wines-red/calvet-minervois-negre-2017.html",
+          "title": "Calvet Minervois 2020 – teknik kayıt"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Sayfanın URL2017 olsa da ürün alanı2020/14%; koyu meyve ve katmanlı yapıyla orta-tam çıkarımı. Açık full sınıfı yok.",
+      "summary_tr": "Orta–tam gövdeli; koyu orman meyveleri, siyah erik ve hafif nane çağrışımları sunar. Baharatlı, katmanlı meyve yapısına canlı tanenler eşlik eder."
+    },
+    {
+      "id": 188,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.calvet.com/en/the-cotes-du-rhone-appellation/",
+          "title": "Calvet Côtes du Rhône – üretici"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Üretici kırmızı meyve/baharat ve supple fruity stilini anlatır; rekolteye özel body yok, standart CDR kupajı orta olarak değerlendirildi.",
+      "summary_tr": "Orta gövdeli; çilek, böğürtlen ve baharat çağrışımları taşıyan meyvemsi bir Rhône kupajıdır. Yumuşak tanenleri ve dengeli yapısıyla akıcı bir içim sunar."
+    },
+    {
+      "id": 189,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://m.familleperrin.com/Y1F0RE",
+          "title": "Famille Perrin Ventoux Rouge 2021 – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici exact2021 sayfasında açıkça fruity full-bodied wine der; daha hafif varsayıma çevrilmemeli.",
+      "summary_tr": "Tam gövdeli; kırmızı ve koyu meyvelerin öne çıktığı taze, baharatlı bir Ventoux kupajıdır. Meyve dolgunluğu ve dengeli yapı kolay yaklaşılabilir bir stil oluşturur."
+    },
+    {
+      "id": 190,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.templarwines.co.uk/wp-content/uploads/2024/04/pasquier-des-vignes-Chateauneuf-du-pape.pdf",
+          "title": "Pasquier Desvignes Châteauneuf-du-Pape 2021 – teknik föy"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "2021 föyü %70 Grenache20Syrah10Mourvedre,14%, rich almost opulent palate; buradan tam gövde. Katalogdaki Cinsault bu föyde yok.",
+      "summary_tr": "Tam gövdeli; çilek, portakal marmeladı ve olgun meyve çağrışımlarına vanilya ve kavruk nüanslar eşlik eder. Zengin başlangıç, güçlü meyve yapısı ve yumuşamış tanenler gösterir.",
+      "blend_corrected": "Grenache %70; Syrah %20; Mourvèdre %10.",
+      "blend_correction_source": {
+        "url": "https://www.templarwines.co.uk/wp-content/uploads/2024/04/pasquier-des-vignes-Chateauneuf-du-pape.pdf",
+        "title": "Pasquier Desvignes Châteauneuf-du-Pape 2021 – teknik föy",
+        "scope": "exact"
+      }
+    },
+    {
+      "id": 191,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.alko.fi/en/products/928778/Calvet-Cahors-Malbec-2022/",
+          "title": "Calvet Cahors Malbec 2022 – Alko ürün tadımı"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2022 aynı küve açık full-bodied; exact2020 bulunamadı, Cahors Malbec stiline aktarım açıkça çıkarım.",
+      "summary_tr": "Tam gövdeli; siyah frenk üzümü, koyu meyve, çiçek ve baharat çağrışımlarıyla yapı gösterir. Malbec karakteri belirgin tanenlerle dengelenir; sınıflandırma aynı küvenin farklı rekolte bilgisine dayanır."
+    },
+    {
+      "id": 192,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://signoregiuseppewines.com/en/wines/montepulciano-en/",
+          "title": "Signore Giuseppe Montepulciano – üretici"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Üretici rounded/soft/silky balanced, Vivino13%; tüm Montepulcianoları full saymak yerine bu giriş küvesi orta.",
+      "summary_tr": "Orta gövdeli; meyve odaklı, yuvarlak ve yumuşak bir Montepulciano stilidir. İpeksi tanenleri ve kontrollü asiditesi dengeli bir bitiş oluşturur."
+    },
+    {
+      "id": 193,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.vinness.it/catalogo/vineria/vini-vineria/rosso/vertigo-2020-livio-felluga/",
+          "title": "Livio Felluga Vertigo 2020 – teknik ve tadım"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "13%, fresh/dynamic/structured; medium çıkarımı. Sayfa ve diğer2020 merchant Merlot/CabernetSauvignon diyor; katalog Merlot/Refosco eksik veya yanlış, üretici teyidi gerekli.",
+      "summary_tr": "Orta gövdeli; orman meyveleri, erik ve baharat nüanslarıyla canlıdır. Taze asidite ve bütünleşmiş tanenler meyve yoğunluğunu dengeler."
+    },
+    {
+      "id": 194,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.agvins.fr/fiches-techniques/dezzani-ottobucce-piemonte.pdf",
+          "title": "Dezzani Ottobucce – dağıtıcı teknik föy"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Sekiz üzüm kupajı; katalog dört ile sınırlı. Föy dengeli/zarif,2020 merchant medium;2021 için medium çıkarımı.",
+      "summary_tr": "Orta gövdeli; kırmızı meyve, vanilya ve baharat notaları taşır. Çok üzümlü kupajın yuvarlaklığı ve dengeli tanen yapısı zarif bir içim sağlar."
+    },
+    {
+      "id": 195,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.prunotto.it/en/vino/barbera-d-alba-doc-en/?wineyear=2020",
+          "title": "Prunotto Barbera d’Alba 2020 – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici full palate sözü tek başına full-bodied değildir; kısa maserasyon fresh/easy traditionalBarbera. Orta çıkarımı; tannin düşüklüğü hafif demek değil.",
+      "summary_tr": "Orta gövdeli; olgun meyve, gül ve baharat nüansları taşır. Taze Barbera karakteri, dengeli meyve yapısı ve akıcı bitişle birleşir."
+    },
+    {
+      "id": 196,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.decantalo.se/en/vietti-tre-vigne-barbera-d-alba.html",
+          "title": "Vietti Tre Vigne Barbera d’Alba 2020 – rekolte tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2020 tarihli not açık medium-bodied; yüksek asit gövdeyi artıran kriter sayılmadı.",
+      "summary_tr": "Orta gövdeli; kırmızı kiraz, mineral ve hafif vanilya nüansları taşır. Taze asiditesi, yumuşak tanenleri ve dengeli meyve yapısıyla canlıdır."
+    },
+    {
+      "id": 197,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.wine.com/product/vietti-perbacco-nebbiolo-delle-langhe-2020/1159447",
+          "title": "Vietti Perbacco 2020 – üretici tadım notu"
+        },
+        {
+          "url": "https://vntgimports.com/wines/vietti-perbacco-langhe-nebbiolo-vietti/",
+          "title": "Vietti ithalatçı teknik bilgileri"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2020 Perbacco üretici tadım metninin aktarıldığı Wine.com kaydı açıkça medium bodied ve mid-weight diyor. Suckling orta–tam dese de üretici sınıfına öncelik verildi; Nebbiolo taneni tam gövde sayılmadı.",
+      "summary_tr": "Vişne, ahududu, gül ve baharat çağrışımları taşıyan orta gövdeli bir Nebbiolo. Canlı asiditesi ve belirgin, ince taneli tanenleri dengeli ve uzun bir yapı oluşturur."
+    },
+    {
+      "id": 198,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.farrvintners.com/wine.php?wine=77141",
+          "title": "Vietti Castiglione 2018 – Suckling ve Wine Advocate"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2018 Castiglione için James Suckling açıkça medium-bodied diyor. Barolo yüksek taneninden otomatik tam gövde sonucu çıkarılmadı.",
+      "summary_tr": "Yabani kırmızı meyve, gül, tütün ve baharat nüanslarıyla orta gövdeli bir Barolo. Sıkı tanenleri ve canlı asiditesi, zarif fakat yaşlanmaya elverişli yapısını belirler."
+    },
+    {
+      "id": 199,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.patrickcellars.com/product-page/vecchio-marone-primitivo-di-puglia-700ml",
+          "title": "Vecchio Marone Primitivo di Puglia – tadım profili"
+        },
+        {
+          "url": "https://www.vivino.com/en/vecchio-marone-primitivo-di-salento/w/5583075",
+          "title": "Vecchio Marone Primitivo – küve kimliği"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Aynı Primitivo di Puglia şarabının ticari tadım notu full-bodied diyor. Tam 2021 üretici föyü bulunamadı; Edizione Privata kupajı ile karıştırılmadı.",
+      "summary_tr": "Olgun erik, koyu meyve ve tatlı baharat çağrışımlarıyla tam gövdeli bir Primitivo. Yuvarlak tanenleri ve sıcak meyve karakteri öne çıkar; sınıf, aynı şarabın genel stilinden yorumlanmıştır."
+    },
+    {
+      "id": 200,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://cellarvino.com/wp-content/uploads/2025/11/Nero-d-Avola-Manieri.pdf",
+          "title": "Manieri Nero d’Avola – markalı teknik föy"
+        },
+        {
+          "url": "https://www.vivino.com/SE/en/manieri-nero-d-avola/w/7476661",
+          "title": "Manieri Nero d’Avola – erişilebilir kullanıcı tadım notu"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Markalı Manieri föyü 13.5%, kiraz/vanilya, ince tanen ve kadifemsi yapı bildiriyor; Vivino erişilebilir gerçek kullanıcı notu medium body diyor, rekolte belirtilmemiş. Nero d’Avola adına bakıp tam sayılmadı.",
+      "summary_tr": "Kiraz, kırmızı erik ve vanilya nüanslarıyla orta gövdeli bir Nero d’Avola. İnce tanenleri, dengeli asiditesi ve kadifemsi dokusu meyveli bir içim sunar; sınıf, küve bilgilerinden yorumlanmıştır."
+    },
+    {
+      "id": 201,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://shop.piccini1882.it/it/eur/it/prodotti/chianti-docg-2023-piccini",
+          "title": "Piccini temel Chianti – üretici ürün sayfası"
+        },
+        {
+          "url": "https://www.piccini1882.it/en/our-companies/piccini-wines/",
+          "title": "Piccini – temel Chianti stil açıklaması"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "Piccini temel Chianti taze ve modern stil; 2021 tam teknik föyü saptanamadı. Chianti Classico/Riserva gibi ayrı ürünlere ait gövde verisi aktarılmadı. Temel Chianti Sangiovese profiliyle orta seçildi.",
+      "summary_tr": "Kiraz, vişne ve hafif baharat tonlarıyla orta gövdeli bir Chianti. Canlı asiditesi ve yumuşak tanenleri meyve odaklı, dengeli bir içim verir; sınıf, temel küvenin stilinden yorumlanmıştır."
+    },
+    {
+      "id": 202,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://bindisergardi.it/en/prodotto/la-boncia/",
+          "title": "Bindi Sergardi La Boncia – üretici"
+        },
+        {
+          "url": "https://caskcartel.com/en-dk/products/2021-bindi-sergardi-la-boncia",
+          "title": "La Boncia 2021 – Suckling tadım notu"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2021 La Boncia Suckling değerlendirmesi medium bodied olarak aktarılıyor; üretici çelik tank, nazik tanen, taze ve genç içim tanımlar.",
+      "summary_tr": "Kiraz, ahududu ve çiçek nüanslarıyla orta gövdeli bir Sangiovese. Nazik tanenleri ve canlı asiditesi taze, dengeli ve kolay içimli bir Chianti karakteri oluşturur."
+    },
+    {
+      "id": 203,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.coop.ch/en/wine/all-wines/red-wines/toscana-igt-santa-cristina-antinori/p/1001662017",
+          "title": "Santa Cristina Toscana Rosso 2021 – tadım"
+        },
+        {
+          "url": "https://www.falstaff.com/en/wines/santa-cristina-2021-santa-cristina-toscana-rosso-igt",
+          "title": "Santa Cristina Toscana Rosso 2021 – Falstaff"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2021 Santa Cristina temel Toscana Rosso kaydı medium build diyor; premium Le Maestrelle ve monosepaj Cabernet kaydı kullanılmadı.",
+      "summary_tr": "Olgun kırmızı meyve ve hafif baharat çağrışımlarıyla orta gövdeli bir Toscana kırmızısı. Yumuşak tanenleri ve dengeli asiditesi yuvarlak, meyveli bir içim sunar."
+    },
+    {
+      "id": 204,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://bindisergardi.it/en/prodotto/ser-gardo/",
+          "title": "Ser Gardo – üretici"
+        },
+        {
+          "url": "https://www.grapelive.com/grapelive-wine-of-the-day-march-7-2025/",
+          "title": "Ser Gardo 2020 – birinci el tadım"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam 2020 Ser Gardo için birinci el Grapelive tadımı medium/full bodied diyor. Üretici %100 Sangiovese ve büyük meşe fıçı bilgisini doğruluyor.",
+      "summary_tr": "Kiraz, erik, kırmızı frenk üzümü, tütün ve baharat nüanslarıyla orta–tam gövdeli bir Chianti Classico. Olgun tanenleri, canlı asiditesi ve uzun bitişi meyve ile yapıyı dengeler."
+    },
+    {
+      "id": 205,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://bindisergardi.it/en/prodotto/i-colli/",
+          "title": "I Colli Riserva – üretici"
+        },
+        {
+          "url": "https://www.woodswholesalewine.com/products/2018-bindi-sergardi-i-colli-chianti-classico-riserva-docg-tuscany-italy-750ml",
+          "title": "I Colli Riserva 2018 – Suckling 94 tadım notu"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2018 I Colli Riserva için Suckling notu açıkça medium-bodied. Riserva ve tanen gücü tam gövdeye eşitlenmedi.",
+      "summary_tr": "Olgun kırmızı ve koyu meyve, sedir ve kuru ot nüanslarıyla orta gövdeli bir Sangiovese. Belirgin tanenleri, canlı asiditesi ve uzun bitişi dengeli bir Riserva yapısı sunar."
+    },
+    {
+      "id": 206,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://art.arvi.ch/en/ca%27_marcanda_-_gaja/magari/2019/75-cl",
+          "title": "Gaja Magari 2019 – eleştirmen tadımı"
+        },
+        {
+          "url": "https://vynoklubas.lt/gaja-camarcanda-magari-bolgheri-doc-2019",
+          "title": "Magari 2019 – Suckling değerlendirmesi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Tam 2019 Magari Suckling değerlendirmesi medium-to-full-bodied. Cabernet Franc ağırlığı tek başına tam gövde gerekçesi değil.",
+      "summary_tr": "Koyu meyve, erik, baharat ve ince odunsu nüanslarla orta–tam gövdeli bir Bolgheri kupajı. Rafine tanenleri ve dengeli asiditesi yoğun meyveyi uzun, zarif bir bitişe taşır."
+    },
+    {
+      "id": 207,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://bordeauxindex.com/fine-wine/italy/tuscany/sass-2017",
+          "title": "Sassicaia 2017 – Suckling ve diğer eleştirmenler"
+        },
+        {
+          "url": "https://www.bbr.com/products-20178008596-2017-sassicaia-tenuta-san-guido-bolgheri-sassicaia-tuscany-italy",
+          "title": "Sassicaia 2017 – BBR gövde sınıfı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2017 Sassicaia için Suckling full-bodied ve BBR Full Bodied diyor. Orta–tam diyen başka eleştirmen var; tek sınıfta tam seçildi.",
+      "summary_tr": "Siyah frenk üzümü, koyu meyve, sedir ve baharat nüanslarıyla tam gövdeli bir Cabernet kupajı. Yumuşak cilalı tanenleri, yoğun meyvesi ve uzun bitişiyle güçlü ama dengeli bir yapı sunar."
+    },
+    {
+      "id": 208,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.collisgroup.it/casalforte/",
+          "title": "Casalforte – üretici ürün ailesi"
+        },
+        {
+          "url": "https://www.cantina24.de/en/p/casalforte-merlot-veneto-igt-2022",
+          "title": "Casalforte Merlot 2022 – medium body"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "2022 aynı Casalforte Merlot için medium body; 2020 satıcısı fullbody diyor. Tam üretici 2020 gövde ifadesi bulunmadığından Veneto Merlot meyve/yumuşak tanen profiliyle orta ve çıkarım seçildi; sadece Merlot diye hafif sayılmadı.",
+      "summary_tr": "Koyu meyve, erik, çikolata ve baharat nüanslarıyla orta gövdeli bir Veneto Merlot. Yumuşak tanenleri ve yuvarlak dokusu dengeli bir içim sunar; sınıf, aynı küvenin farklı rekolte bilgilerinden yorumlanmıştır."
+    },
+    {
+      "id": 209,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.vino.com/en/dettaglio/veneto-pinot-nero-igt-castelforte-2020.html",
+          "title": "Casalforte Pinot Nero 2020 – teknik gövde paneli"
+        },
+        {
+          "url": "https://www.collisgroup.it/casalforte/",
+          "title": "Casalforte – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2020 ürünü Vino.com teknik panelinde Body Medium. Pinot Noir otomatik hafif–orta yapılmadı; 13.5%, kısa barrique ile bu küve orta.",
+      "summary_tr": "Kırmızı meyve, frenk üzümü, ardıç, vanilya ve tarçın nüanslarıyla orta gövdeli bir Pinot Nero. Taze asiditesi ve yumuşak dokusu dengeli, zarif bir içim sunar."
+    },
+    {
+      "id": 210,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.vino.com/en/dettaglio/corvina-veronese-igt-casalforte-2020.html",
+          "title": "Casalforte Corvina 2020 – teknik gövde paneli"
+        },
+        {
+          "url": "https://www.collisgroup.it/casalforte/",
+          "title": "Casalforte – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2020 Corvina teknik paneli Body Medium; aynı rekolte Luvine de medium-body. Genel Casalforte marka full-bodied reklamı özel şarap gövdesi sayılmadı.",
+      "summary_tr": "Vişne, böğürtlen, vanilya ve tatlı baharat nüanslarıyla orta gövdeli bir Corvina. Yumuşak tanenleri ve canlı meyve karakteri dengeli bir Veneto stili sunar."
+    },
+    {
+      "id": 211,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://spywinesandspirits.co.uk/products/casalforte-valpolicella-superiore",
+          "title": "Casalforte Valpolicella Superiore 2020 – gövde ve rekolte"
+        },
+        {
+          "url": "https://www.collisgroup.it/casalforte/",
+          "title": "Casalforte – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2020 ve 13% eşleşen Spy kaydı açıkça medium bodied. Superiore unvanı ve başka rekolte med-full kaydı nedeniyle tam yapılmadı.",
+      "summary_tr": "Kiraz, yaban mersini, meyan ve hafif okaliptüs nüanslarıyla orta gövdeli bir Valpolicella Superiore. Yumuşak tanenleri ve meyve odaklı yapısı dengeli, akıcı bir içim sunar."
+    },
+    {
+      "id": 212,
+      "body": "light",
+      "sources": [
+        {
+          "url": "https://www.masi.it/en/wines/frescaripa-bardolino-classico-doc-red-wine/",
+          "title": "Masi Frescaripa – üretici, light red"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": false,
+      "reason_tr": "Üretici Frescaripa için açıkça light red wine diyor; %12, taze asidite, Bardolino kupajı bu sınıfı destekliyor. Sayfa genel küve, tam 2020 değil.",
+      "summary_tr": "Kiraz ve frenk üzümü kokuları, vişne ve ince bitkisel nüanslarla hafif gövdeli bir Bardolino. Canlı asiditesi ve narin tanenleri ferah, kolay içimli bir karakter oluşturur."
+    },
+    {
+      "id": 213,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.gusclemensonwine.com/bertani-valpolicella-ripasso-doc-2020/",
+          "title": "Bertani Ripasso 2020 – birinci el Medium body tadımı"
+        },
+        {
+          "url": "https://www.palmbay.com/wines/bertani/bertani-valpolicella-ripasso/",
+          "title": "Bertani resmi ithalatçısı – 2020 ve orta ağırlıklı tadımlar"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2020 birinci el Gus Clemens açıkça Medium body; resmi ithalatçının 2020 sayfası da mid-weight/medium-bodied değerlendirmeler sunuyor. Önceki light_medium yalnız farklı yorumları ortalamaktan doğmuştu; orta seçildi. Catullo ile karıştırılmadı.",
+      "summary_tr": "Vişne, ahududu, erik, tarçın ve koyu çikolata nüanslarıyla orta gövdeli bir Ripasso. Kremsi tanenleri ve canlı asiditesi, zengin meyvesine rağmen taze bir denge sağlar."
+    },
+    {
+      "id": 214,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.falstaff.com/en/wines/masi-2017-costasera-amarone-della-valpolicella-classico-docg",
+          "title": "Masi Costasera 2017 – Falstaff"
+        },
+        {
+          "url": "https://www.wine.com/product/masi-costasera-amarone-classico-2017/1127210",
+          "title": "Costasera 2017 – eleştirmen değerlendirmeleri"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2017 Falstaff doğrudan full-bodied; appassimento ve %15 bu gövdeyi destekliyor. Suckling orta–tam diyor; tek sınıfta tam. Riserva ile karıştırılmadı.",
+      "summary_tr": "Olgun ve kurutulmuş meyve, kiraz, kahve ve baharat tonlarıyla tam gövdeli bir Amarone. Appassimento üretimi yoğunluk kazandırır; olgun tanenleri ve uzun sıcak bitişi belirgindir."
+    },
+    {
+      "id": 215,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.linksconcept.com/our_wines_brand.php?bid=56&p=1",
+          "title": "Torres Sangre de Toro 2021 – distribütör gövde bilgisi"
+        },
+        {
+          "url": "https://www.sangredetoro.com/en/wines/original/",
+          "title": "Sangre de Toro Original – üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "2021 normal Sangre de Toro için distribütör medium body/soft tannins; Reserva Organic aynı şarap değil ve onun full gövdesi aktarılmadı.",
+      "summary_tr": "Kırmızı ve koyu meyve ile Akdeniz baharatı çağrışımları taşıyan orta gövdeli bir Garnacha–Cariñena kupajı. Yumuşak tanenleri ve dengeli asiditesi sıcak, yuvarlak bir içim sunar."
+    },
+    {
+      "id": 216,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.biltstraatwijnenwhisky.nl/castillo-de-aresan-cabernet-sauvignon-barrel-aged.html",
+          "title": "Castillo de Aresan Bourbon Cabernet – tam gövde profili"
+        },
+        {
+          "url": "https://www.lekkerwines.co.uk/castillo-de-aresan-bourbon-barrel-aged-cabernet-sauvignon-2021",
+          "title": "Aresan Bourbon Cabernet 2021 – tadım ve üretim"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "Aynı Bourbon Barrel Aged Cabernet küvesi için dolgunluk ve velvety texture bilgileri; tam 2020 üretici gövde notu yok. Sıcak iklim olgun Cabernet ve fıçı etkisinden tam çıkarımı; yalnız bourbon aroması nedeniyle değil.",
+      "summary_tr": "Olgun siyah meyve, vanilya, karamel, hindistancevizi ve kavruk tonlarla tam gövdeli bir Cabernet Sauvignon. Yumuşatılmış tanenleri ve zengin dokusu öne çıkar; sınıf, aynı küvenin genel stilinden yorumlanmıştır."
+    },
+    {
+      "id": 217,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.lmtwines.com/wp-content/uploads/2023/11/KIMERA-2020.pdf",
+          "title": "LMT Wines Kimera 2020 teknik föy"
+        },
+        {
+          "url": "https://www.decanter.com/wine-reviews/spain/navarra/lmt-wines-kimera-navarra-spain-2020-79580/",
+          "title": "Decanter Kimera 2020"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Decanter 2020 için Body: Full belirtir. Üretici %100 Garnatxa, %14,5 alkol ve 10 ay tinaja doğrular; başka rekoltenin orta gövde ifadesi alınmadı.",
+      "summary_tr": "Tam gövdeli; ahududu, kiraz ve böğürtlen aromalarına biberiye ve kekik nüansları eşlik eder. Damakta canlı bir giriş ve hafif topraksı bitiş gösterir."
+    },
+    {
+      "id": 218,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.aporvino.com/en/buy-wine-doca-rioja/11992-terras-gauda/heraclio-alfaro-crianza-2018.html",
+          "title": "Heraclio Alfaro Crianza 2018 tadım ve üretim bilgisi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "2018 Crianza için ipeksi, dengeli, taze damak ve %14 alkol doğrulandı. Açık gövde ölçümü yok; temel Crianza stili ve tadım yapısından orta seçildi. Finca Estarijo/Reserva ile karıştırılmadı.",
+      "summary_tr": "Orta gövdeli; kiraz ve yaban mersinine vanilya ve fındığı çağrıştıran tonlar eşlik eder. İpeksi giriş, dengeli asidite ve meyveyle bütünleşen fıçı karakteri sunar."
+    },
+    {
+      "id": 219,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://roda.es/en/our-wines/sela/vintage-2019",
+          "title": "Roda SELA 2019 üretici"
+        },
+        {
+          "url": "https://www.bodeboca.com/es/es/vino/sela-2019",
+          "title": "Sela 2019 Wine Advocate tadım aktarımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici 2019 için geniş/hacimli, diğer rekoltelerden daha yapılı der; rakamsal sınıf vermez. Wine Advocate açık medium to full destekler. Tek kategori orta–tam; tam ikinci filtre kaldırılmalı.",
+      "summary_tr": "Orta–tam gövdeli; olgun kiraz ve koyu meyve tonlarına aromatik otlar ve nemli toprağı çağrıştıran nüanslar eşlik eder. Geniş damak, kaliteli tanenler, canlılık ve uzun, ferah bir bitiş sunar."
+    },
+    {
+      "id": 220,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://roda.es/en/our-wines/roda/vintage-2018",
+          "title": "Roda 2018 üretici teknik ve tadım bilgisi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici doğrudan medium volume ve serin/yağışlı yılın daha düşük hacmini vurgular. Eleştirmenin full body yorumu yerine exact üretici önceliklendirildi. Roda I değildir.",
+      "summary_tr": "Orta gövdeli; taze kiraz ve diğer kırmızı meyveler, ince baharat ve çiçeksi nüanslarla birleşir. Cilalanmış tanenler, ipeksi doku ve uzun, ferah bir bitiş sunar."
+    },
+    {
+      "id": 221,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://bodegaslahorra.es/en/wines/corimbo/vintage-2018",
+          "title": "La Horra Corimbo 2018 üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici 2018 için açıkça medium volume der; serin ve yağışlı yılın daha hafif, taze stilini anlatır. Corimbo I ile karıştırılmadı.",
+      "summary_tr": "Orta gövdeli; kırmızı meyve, toprak, aromatik bitki ve baharat nüansları taşır. İnce tanenler ve meyveyi örtemeyen fıçı dokunuşu, uzun ve ferah bitişle dengelenir."
+    },
+    {
+      "id": 222,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://vicentegandia.es/en/producto/con-un-par-monastrell/",
+          "title": "Vicente Gandia Con un Par Monastrell üretici"
+        },
+        {
+          "url": "https://www.le-connaisseur.nl/en/vicente-gandia-con-un-par-monastrell",
+          "title": "Con un Par Monastrell küve tadım açıklaması"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": true,
+      "reason_tr": "2021 gövde teknik föyü bulunamadı. Aynı Monastrell küvesi için medium body, soft tannins tanımı mevcut; eski Monastrell-Petit Verdot ürününden ayrı tutuldu. Monastrell adı otomatik tam gövde kabul edilmedi.",
+      "summary_tr": "Orta gövdeli; olgun kırmızı ve koyu meyve karakteri, yumuşak tanenler ve meyvemsi bir bitişle birleşir. Sıcak iklim kökenine rağmen erişilebilir ve dengeli bir stil gösterir."
+    },
+    {
+      "id": 223,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.sov.wine/wines/770-miles-red-zinfandel",
+          "title": "Society of Vintners 770 Miles Red Zinfandel"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": false,
+      "reason_tr": "İthalatçı/tedarikçi aynı kırmızı küveyi açıkça medium bodied tanımlar. 2021 ayrı teyit yok; üzümün tipik yüksek alkol varsayımı yerine ürün bilgisi esas alındı.",
+      "summary_tr": "Orta gövdeli; olgun kırmızı orman meyvesi ve böğürtlen tonlarıyla sulu, kolay içimli bir stil sunar. Yumuşak dokuya tatlı baharatı çağrıştıran meyve nüansları eşlik eder."
+    },
+    {
+      "id": 224,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://kingsbar.com.sg/products/770-miles-cabernet-sauvignon-750ml",
+          "title": "770 Miles Cabernet Sauvignon ürün tadım açıklaması"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": false,
+      "reason_tr": "Aynı küve açıkça medium-bodied, light tannins, yaklaşılabilir olarak tanımlanır. Sayfa rekolte değişebileceğini belirtir; 2021 exact iddiası yok.",
+      "summary_tr": "Orta gövdeli; olgun kiraz ve kırmızı orman meyvesine hafif baharat ve ince meşe nüansları eşlik eder. Nazik tanenler ve yumuşak, sıcak bir bitiş sunar."
+    },
+    {
+      "id": 225,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.wine.com/product/two-hands-gnarly-dudes-shiraz-2021/1634293",
+          "title": "Gnarly Dudes 2021 James Suckling tadım aktarımı"
+        },
+        {
+          "url": "https://www.kenswineguide.com/wine_review/Two-Hands-2021-Gnarly-Dudes-Shiraz",
+          "title": "Gnarly Dudes 2021 tadımı ve üretici notları"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "JS ve pek çok exact kaynak full-bodied; Ken paneli medium dese de aynı sayfadaki üretici rich powerful penetrating şeklinde. Çoğunluk/üretici yoğunluğu tamı destekler. Eski açıklamadaki Macar şarabı OCR artığı silinmeli.",
+      "summary_tr": "Tam gövdeli; koyu meyveler, olgun erik ve baharat tonlarıyla zengin bir damak sunar. Yoğun meyve merkezine olgun tanenler ve kalıcı, baharatlı bitiş eşlik eder."
+    },
+    {
+      "id": 226,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://backoffice.errazuriz.com/wp-content/uploads/2025/03/2021_Errazuriz_Estate_Carmenere_eng.pdf",
+          "title": "Errázuriz Estate Carmenere 2021 üretici teknik föy"
+        },
+        {
+          "url": "https://www.errazuriz.com/en/wines/estate/estate-carmenere/2021",
+          "title": "Errázuriz Estate Carmenere 2021 üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici exact föyünde %13,5 alkol, çok yumuşak orta damak ve ince tanen; Estate seri orta gövde profili. Açık exact gövde kelimesi yok: duyusal/seri çıkarımı, yoğun ikon Carmenere ile karıştırılmadı.",
+      "summary_tr": "Orta gövdeli; kırmızı biber, incir, karanfil ve kavrulmuş kahve nüansları taşır. Koyu meyve ve baharat tonları, ince taneli tanenler ve yumuşak damak dokusuyla dengelenir."
+    },
+    {
+      "id": 227,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.internationalwinechallenge.com/canopy/beverage_details?wid=177555",
+          "title": "IWC Conde Jose Reserva Privada Carmenere 2021"
+        },
+        {
+          "url": "https://redredwine.blog.jp/archives/31903594.html",
+          "title": "Conde José Reserva Privada Carmenere 2021 şişe tadımı"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "IWC exact kimlik ve %14 alkolü doğrular ancak gövde vermez. 2021 şişe tadımı ağırlığın/kompleksliğin ölçülü olduğunu, canlı asidi anlatır; orta gövde çıkarımı. Vivino jenerik Carménère metni şişe ölçümü sayılmadı.",
+      "summary_tr": "Orta gövdeli; koyu meyve, vişne ve moka tonlarına bitkisel nüanslar eşlik eder. Canlı asiditesi ve ölçülü damak yoğunluğuyla meyve ve baharatı öne çıkarır."
+    },
+    {
+      "id": 228,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.errazuriz.com/en/wines/estate/estate-cabernet-sauvignon/2021",
+          "title": "Errázuriz Estate Cabernet Sauvignon 2021 üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Üretici sayfasında medium-bodied açık ifadesi var. Üzüm adı ve belirgin tanen, tam gövdeye yükseltmek için kullanılmadı.",
+      "summary_tr": "Orta gövdeli; Cabernet Sauvignon karakterindeki koyu meyve ve hafif baharat nüanslarını yumuşak bir dokuyla sunar. İnce tanenler, tazelik ve dengeli meyve profili öne çıkar."
+    },
+    {
+      "id": 229,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://conchaytoro.com/en/blog/all-about-merlot/",
+          "title": "Concha y Toro Casillero del Diablo Merlot üretici açıklaması"
+        },
+        {
+          "url": "https://qa.casillerodeldiablo.com/wine/reserva-merlot/",
+          "title": "Casillero del Diablo Reserva Merlot üretici ürün sayfası"
+        }
+      ],
+      "scope": "cuvee",
+      "inferred": false,
+      "reason_tr": "Üretici aynı küve için doğrudan medium-bodied der. 2021 ayrı teknik gövde ölçümü yok; cuvee kapsamı.",
+      "summary_tr": "Orta gövdeli; erik ve böğürtlene çikolata, vanilya ve hafif is nüansları eşlik eder. Yumuşak tanenleri ve meyvemsi, dengeli yapısıyla kolay içimli bir Merlot sunar."
+    },
+    {
+      "id": 230,
+      "body": "medium_full",
+      "sources": [
+        {
+          "url": "https://api.errazuriz.com/storage/files/max/viii/2019/2019_Errazuriz_MAX_VIII_eng.pdf?timestamp=16062022",
+          "title": "Errázuriz MAX VIII 2019 üretici teknik föy"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Üretici 2019 altı üzüm kupajını, %13,5 alkolü, sulu damak/ince tanen/uzunluğu doğrular; gövde sözcüğü açık değil. Kupaj ve üretim yoğunluğundan orta–tam çıkarımı; iki üzümlü eski metin yanlış.",
+      "summary_tr": "Orta–tam gövdeli; kiraz, nane çayı, dereotu, karanfil ve hafif karamel nüansları taşır. Taze kırmızı meyve, ince taneli tanenler ve sulu, uzun damak yapısı sunar.",
+      "blend_corrected": "Syrah %40; Cabernet Sauvignon %23; Malbec %13; Carménère %10; Grenache %8; Mourvèdre %6",
+      "blend_correction_source": "https://api.errazuriz.com/storage/files/max/viii/2019/2019_Errazuriz_MAX_VIII_eng.pdf?timestamp=16062022"
+    },
+    {
+      "id": 231,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://backoffice.errazuriz.com/wp-content/uploads/2025/03/2019_Errazuriz_Aconcagua_Costa_Syrah_eng.pdf",
+          "title": "Errázuriz Aconcagua Costa Syrah 2019 üretici teknik föy"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact üretici föyü %13 alkol, doğrusal yapı, ferah asit, yumuşak doku ve tebeşirimsi tanen anlatır. Açık gövde ölçümü yok; serin kıyı Syrah stilinden orta çıkarımı; bütün Syrahlar tam kabul edilmedi.",
+      "summary_tr": "Orta gövdeli; karabiber, tütsü, yaban mersini, vişne ve menekşe nüansları taşır. Doğrusal, uzun damak yapısına ferah asidite ve ince, tebeşirimsi tanenler eşlik eder."
+    },
+    {
+      "id": 232,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.wineenthusiast.com/buying-guide/kaiken-2020-estate-malbec-mendoza/",
+          "title": "Wine Enthusiast Kaiken Estate Malbec 2020"
+        },
+        {
+          "url": "https://www.kaikenwines.com/en/vino/estate/Malbec",
+          "title": "Kaiken Estate Malbec üretici"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "Wine Enthusiast 2020 açıkça medium-bodied der; JS exact aynı orta sonucunu verir. Malbec üzümünü otomatik tam sayan eski cümle kaldırılmalı.",
+      "summary_tr": "Orta gövdeli; çilek ve böğürtlen meyvesine sütlü çikolata, hafif espresso ve otsu nüanslar eşlik eder. Yumuşak damak, dengeli asidite ve ölçülü tanenlerle tamamlanır."
+    },
+    {
+      "id": 233,
+      "body": "full",
+      "sources": [
+        {
+          "url": "https://www.thebarrelroom.com/our-wines/red-wine/malbec/000000000110040316.html",
+          "title": "Alamos ABD marka sahibi Gallo Barrel Room 2021 ürün bilgisi"
+        }
+      ],
+      "scope": "exact",
+      "inferred": false,
+      "reason_tr": "ABD marka sahibi satış sayfası Our2021Malbec big full-bodied der. Aynı sayfada JS medium diyor; üretici önceliğiyle full seçildi. Pazar/parti farkı belirsizliğini göz ardı etmeden yalnız bu ürün eşleşmesine dayanır.",
+      "summary_tr": "Tam gövdeli; böğürtlen ve çikolataya siyah frenk üzümü, ahududu ve beyaz biber nüansları eşlik eder. İpeksi damak yapısı, nar ve vanilyayı çağrıştıran uzun bitişle tamamlanır."
+    },
+    {
+      "id": 234,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.internationalwinechallenge.com/canopy/beverage_details?wid=177640",
+          "title": "IWC Terra Argenta Malbec Mendoza 2021"
+        },
+        {
+          "url": "https://www.getwinesdirect.com/mixed-dozens/Ultimate-International-Selection-Mixed-Dozen",
+          "title": "Terra Argenta Malbec 2018 stil açıklaması"
+        }
+      ],
+      "scope": "related_vintage",
+      "inferred": true,
+      "reason_tr": "Exact IWC yalnız kimlik ve %13 alkol verir. Aynı temel küvenin 2018 medium-bodied bilgisiyle orta seçildi; Altitude900 farklı küve olduğundan kullanılmadı. Açık2021 gövde doğrulaması yok; güven sınırlı.",
+      "summary_tr": "Orta gövdeli; olgun koyu meyve, hafif baharat ve yumuşak tanen karakteri gösteren sek bir Mendoza Malbec stilidir. Meyve odaklı yapı, ölçülü ağırlık ve dengeli bir bitiş sunar."
+    },
+    {
+      "id": 235,
+      "body": "medium",
+      "sources": [
+        {
+          "url": "https://www.babichwines.com/wp-content/uploads/2022/04/21CLAMPIN.pdf",
+          "title": "Babich Classics Marlborough Pinot Noir 2021 üretici teknik föy"
+        }
+      ],
+      "scope": "exact",
+      "inferred": true,
+      "reason_tr": "Exact Classics2021 üretici weighty entry/good volume der; BlackLabel ayrı küve kullanılmadı. PinotNoir adı tek başına hafif değildir; orta gövde duyusal eşleştirmesi.",
+      "summary_tr": "Orta gövdeli; koyu erik, ahududu ve gül aromalarına kekik, mantar ve anason nüansları eşlik eder. Meyve ağırlıklı giriş, kirazlı damak ve dengeli asit–tanen yapısıyla uzunluk kazanır."
+    }
+  ],
+  "changes": [
+    {
+      "id": 114,
+      "name": "CHÂTEAU KALPAK BBK 2010",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 118,
+      "name": "SEVİLEN 900",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 119,
+      "name": "DOLUCA SARAFİN",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 120,
+      "name": "UMURBEY CABERNET SAUVİGNON",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 121,
+      "name": "SUVLA GRAND RESERVE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 122,
+      "name": "SELENDİ AKHİSAR",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 123,
+      "name": "PORTA CAELI AMENT",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 124,
+      "name": "PAŞAELİ K2 KAYNAKLAR",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 125,
+      "name": "URLA TEMPUS",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 126,
+      "name": "DOLUCA ALÇITEPE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 128,
+      "name": "CHAMLIJA THRACİAN",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 130,
+      "name": "UMURBEY RESERVE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 132,
+      "name": "PORTA CAELI PORTA DIVERTI",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 133,
+      "name": "URLA NEXUS",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 134,
+      "name": "LİKYA KIZILBEL MERLOT",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 135,
+      "name": "DOLUCA SARAFİN MERLOT",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 136,
+      "name": "CHAMLIJA ISTRANCA GELİNİ",
+      "before": [
+        "medium"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 138,
+      "name": "CHAMLIJA SUİ GENERİS NEV’İ ŞAHSINA MÜNHASIR",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 139,
+      "name": "SUVLA SUR",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 140,
+      "name": "SUVLA RESERVE MERLOT",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 141,
+      "name": "GÜLOR SİGNATURE MALBEC",
+      "before": [
+        "full",
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 143,
+      "name": "NİF BAĞLARI AEGEAN BLEND",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 144,
+      "name": "KASTRO TIRELI ALKAİA",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 145,
+      "name": "PRODOM BLEND",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 146,
+      "name": "DOLUCA SARAFİN SHİRAZ",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 148,
+      "name": "SUVLA SIR",
+      "before": [
+        "light_medium"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 149,
+      "name": "HUS SUPERNOVA",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 150,
+      "name": "HUS CARİNENA PİE FRANCO",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 151,
+      "name": "HUS CARİNENA EMBALSE",
+      "before": [
+        "medium"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 152,
+      "name": "PRODOM ÖKÜZGÖZÜ",
+      "before": [
+        "medium"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 153,
+      "name": "KAVAKLIDERE SELECTİON",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 155,
+      "name": "CORVUS ÖKÜZGÖZÜ",
+      "before": [
+        "medium"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 156,
+      "name": "SEVİLEN PLATO KALECİK KARASI",
+      "before": [
+        "medium"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 157,
+      "name": "PRODOM KALECİK KARASI",
+      "before": [
+        "medium"
+      ],
+      "after": "light_medium"
+    },
+    {
+      "id": 158,
+      "name": "URLA VOURLA",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 159,
+      "name": "LİKYA VİNEYARD BOĞAZKERE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 160,
+      "name": "DOLUCA KAV",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 163,
+      "name": "SELENDİ SARNIÇ",
+      "before": [
+        "medium"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 164,
+      "name": "KAVAKLIDERE CÔTES D’ AVANOS",
+      "before": [
+        "medium"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 167,
+      "name": "DOLUCA DLC",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 169,
+      "name": "CHÂTEAU HAUT- MOULEYRE BORDEAUX",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 170,
+      "name": "DULONG RESERVE SAİNT-ÉMİLİON",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 171,
+      "name": "CHÂTEAU DE LAMARQUE DON JON DE LAMARQUE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 173,
+      "name": "CHÂTEAU DE LAMARQUE GRANDS CRU SUPÉRİEURS",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 174,
+      "name": "CHÂTEAU CANTIN SAİNT-ÉMİLİON GRAND CRU",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 176,
+      "name": "CLOS CANTENAC SAİNT EMİLİON GRAND CRU",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 177,
+      "name": "CHÂTEAU SÉRAPHINE L’INNOCENCE DE SÉRAPHİNE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 178,
+      "name": "CHÂTEAU MONTROSE GRAND CRU CLASSÉ",
+      "before": [
+        "full"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 179,
+      "name": "CHÂTEAU LA FLEUR PETRUS POMEROL",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 182,
+      "name": "MOILLARD MERCUREY ‘BOİS VİLAİN’",
+      "before": [
+        "medium",
+        "light_medium"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 183,
+      "name": "LOUIS JADOT COUVENT DES JACOBİNS",
+      "before": [
+        "medium"
+      ],
+      "after": "light_medium"
+    },
+    {
+      "id": 188,
+      "name": "CALVET CÔTES DU RHÔNE",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 190,
+      "name": "PASQUER DES VIGNES CHATEAUNEUF DU PAPE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 191,
+      "name": "CALVET CAHORS MALBEC",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 193,
+      "name": "LIVIO FELLUGA VERTİGO IGT",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 195,
+      "name": "PRUNOTTO BARBERA D’ALBA DOC",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 196,
+      "name": "VIETTI BARBERA D’ALBA TREVİGNE DOC",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 199,
+      "name": "VECCHIO MARONE PRİMİTİVO",
+      "before": [
+        "medium_full",
+        "full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 200,
+      "name": "MANIERI NERO D’AVOLA",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 203,
+      "name": "SANTA CRISTINA TOSCANA IGT",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 205,
+      "name": "BINDI SERGARDI I COLLİ CHİANTİ CLASSİCO RESERVA DOCG",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 208,
+      "name": "CANTINE RIONDO CASALFORTE MERLOT IGT",
+      "before": [
+        "medium",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 209,
+      "name": "CANTINE RIONDO CASALFORTE PİNOT NERO IGT",
+      "before": [
+        "medium",
+        "light_medium"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 213,
+      "name": "BERTANI VALPOLICELLA RIPASSO VALPANTENA",
+      "before": [
+        "light_medium"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 216,
+      "name": "CASTILLO DI ARESAN ‘BOURBON BARREL AGED’",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 217,
+      "name": "LUIS MOYA TORTOSA KİMERA GARNATXA DO",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 219,
+      "name": "BODEGAS RODA SELA DOC",
+      "before": [
+        "medium_full",
+        "full"
+      ],
+      "after": "medium_full"
+    },
+    {
+      "id": 220,
+      "name": "BODEGAS RODA RESERVA DOC",
+      "before": [
+        "medium",
+        "full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 221,
+      "name": "BODEGAS LA HORRA CORİMBO DO",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 222,
+      "name": "VICENTE GANDIA CON UN PAR",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 223,
+      "name": "770 MILES ZİNFANDEL",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 224,
+      "name": "770 MILES CABERNET SAUVİGNON",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 225,
+      "name": "TWO HANDS GNARLY DUDES SHİRAZ",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 226,
+      "name": "ERRAZURIZ ESTATE RESERVA CARMENERE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 227,
+      "name": "CONDE JOSE RESERVA PRİVADA CARMENERE",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 228,
+      "name": "ERRAZURIZ ESTATE RESERVA",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 231,
+      "name": "ERRAZURIZ ACONCAGUA COSTA SYRAH",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 232,
+      "name": "KAIKEN ESTATE MALBEC",
+      "before": [
+        "full",
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 233,
+      "name": "CATENA ZAPATA ALAMOS MALBEC",
+      "before": [
+        "medium_full"
+      ],
+      "after": "full"
+    },
+    {
+      "id": 234,
+      "name": "TERRA ARGENTA MALBEC",
+      "before": [
+        "medium_full"
+      ],
+      "after": "medium"
+    },
+    {
+      "id": 235,
+      "name": "BABICH PİNOT NOİR",
+      "before": [
+        "medium",
+        "light_medium"
+      ],
+      "after": "medium"
+    }
+  ]
+}

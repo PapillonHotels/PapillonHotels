@@ -1,0 +1,7 @@
+GÜNCEL İNCELEME KAYITLARI
+character-review.json: güncel aroma/asidite/damak/tanen/bitiş verisinin araştırma temeli.
+red-body-research.json ve white-sparkling-body-research.json: gövde kararları ve kupaj düzeltmeleri.
+white-fish-pairings.json ve sparkling-fish-pairings.json: son balık/pişirme/sos önerileri.
+language-grammar-*.json: uygulanan dil incelemesi ve düzenleme kuralları.
+Bu klasör uygulamanın çalışması için gerekmez; kayıt ve ileride düzenleme için eklenmiştir.
+Çalışan son içerik wines.json ve wines-data.js içindedir.

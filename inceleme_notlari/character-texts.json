@@ -1,0 +1,767 @@
+{
+  "tr": {
+    "headings": {
+      "aromas": "Aromalar",
+      "acidity": "Asidite",
+      "palate": "Damak",
+      "tannin": "Tanenler",
+      "finish": "Bitiş"
+    },
+    "acidity": {
+      "fresh": "ferah",
+      "lively": "canlı",
+      "crisp": "diri",
+      "balanced": "dengeli",
+      "soft": "yumuşak",
+      "high": "yüksek",
+      "medium": "orta",
+      "low": "düşük",
+      "rather_low": "düşükçe"
+    },
+    "palate": {
+      "fresh": "ferah",
+      "balanced": "dengeli",
+      "creamy": "kremamsı",
+      "round": "yuvarlak",
+      "silky": "ipeksi",
+      "structured": "yapılı",
+      "concentrated": "konsantre",
+      "elegant": "zarif",
+      "juicy": "sulu",
+      "soft": "yumuşak",
+      "complex": "kompleks"
+    },
+    "tannin": {
+      "fine": "ince",
+      "soft": "yumuşak",
+      "firm": "sıkı",
+      "ripe": "olgun"
+    },
+    "finish": {
+      "long": "uzun",
+      "medium_long": "orta-uzun",
+      "medium": "orta",
+      "persistent": "kalıcı"
+    }
+  },
+  "en": {
+    "headings": {
+      "aromas": "Aromas",
+      "acidity": "Acidity",
+      "palate": "Palate",
+      "tannin": "Tannins",
+      "finish": "Finish"
+    },
+    "acidity": {
+      "fresh": "fresh",
+      "lively": "lively",
+      "crisp": "crisp",
+      "balanced": "balanced",
+      "soft": "soft",
+      "high": "high",
+      "medium": "medium",
+      "low": "low",
+      "rather_low": "rather low"
+    },
+    "palate": {
+      "fresh": "freshness",
+      "balanced": "balance",
+      "creamy": "creaminess",
+      "round": "roundness",
+      "silky": "silky texture",
+      "structured": "structure",
+      "concentrated": "concentration",
+      "elegant": "elegance",
+      "juicy": "juiciness",
+      "soft": "softness",
+      "complex": "complexity"
+    },
+    "tannin": {
+      "fine": "fine-grained",
+      "soft": "soft",
+      "firm": "firm",
+      "ripe": "ripe"
+    },
+    "finish": {
+      "long": "long",
+      "medium_long": "medium to long",
+      "medium": "medium",
+      "persistent": "persistent"
+    }
+  },
+  "de": {
+    "headings": {
+      "aromas": "Aromen",
+      "acidity": "Säure",
+      "palate": "Gaumen",
+      "tannin": "Tannine",
+      "finish": "Abgang"
+    },
+    "acidity": {
+      "fresh": "frisch",
+      "lively": "lebendig",
+      "crisp": "knackig",
+      "balanced": "ausgewogen",
+      "soft": "mild",
+      "high": "hoch",
+      "medium": "mittel",
+      "low": "niedrig",
+      "rather_low": "eher niedrig"
+    },
+    "palate": {
+      "fresh": "Frische",
+      "balanced": "Ausgewogenheit",
+      "creamy": "Cremigkeit",
+      "round": "Rundheit",
+      "silky": "seidige Textur",
+      "structured": "Struktur",
+      "concentrated": "Konzentration",
+      "elegant": "Eleganz",
+      "juicy": "Saftigkeit",
+      "soft": "Weichheit",
+      "complex": "Komplexität"
+    },
+    "tannin": {
+      "fine": "feinkörnig",
+      "soft": "weich",
+      "firm": "fest",
+      "ripe": "reif"
+    },
+    "finish": {
+      "long": "lang",
+      "medium_long": "mittellang bis lang",
+      "medium": "mittellang",
+      "persistent": "anhaltend"
+    }
+  },
+  "fr": {
+    "headings": {
+      "aromas": "Arômes",
+      "acidity": "Acidité",
+      "palate": "Palais",
+      "tannin": "Tanins",
+      "finish": "Finale"
+    },
+    "acidity": {
+      "fresh": "fraîche",
+      "lively": "vive",
+      "crisp": "tonique",
+      "balanced": "équilibrée",
+      "soft": "souple",
+      "high": "élevée",
+      "medium": "moyenne",
+      "low": "faible",
+      "rather_low": "plutôt faible"
+    },
+    "palate": {
+      "fresh": "fraîcheur",
+      "balanced": "équilibre",
+      "creamy": "onctuosité",
+      "round": "rondeur",
+      "silky": "texture soyeuse",
+      "structured": "structure",
+      "concentrated": "concentration",
+      "elegant": "élégance",
+      "juicy": "jutosité",
+      "soft": "souplesse",
+      "complex": "complexité"
+    },
+    "tannin": {
+      "fine": "fins",
+      "soft": "souples",
+      "firm": "fermes",
+      "ripe": "mûrs"
+    },
+    "finish": {
+      "long": "longue",
+      "medium_long": "moyenne à longue",
+      "medium": "moyenne",
+      "persistent": "persistante"
+    }
+  },
+  "it": {
+    "headings": {
+      "aromas": "Profumi",
+      "acidity": "Acidità",
+      "palate": "Palato",
+      "tannin": "Tannini",
+      "finish": "Finale"
+    },
+    "acidity": {
+      "fresh": "fresca",
+      "lively": "vivace",
+      "crisp": "tesa",
+      "balanced": "equilibrata",
+      "soft": "morbida",
+      "high": "elevata",
+      "medium": "media",
+      "low": "bassa",
+      "rather_low": "piuttosto bassa"
+    },
+    "palate": {
+      "fresh": "freschezza",
+      "balanced": "equilibrio",
+      "creamy": "cremosità",
+      "round": "rotondità",
+      "silky": "setosità",
+      "structured": "struttura",
+      "concentrated": "concentrazione",
+      "elegant": "eleganza",
+      "juicy": "succosità",
+      "soft": "morbidezza",
+      "complex": "complessità"
+    },
+    "tannin": {
+      "fine": "fini",
+      "soft": "morbidi",
+      "firm": "decisi",
+      "ripe": "maturi"
+    },
+    "finish": {
+      "long": "lungo",
+      "medium_long": "medio-lungo",
+      "medium": "medio",
+      "persistent": "persistente"
+    }
+  },
+  "es": {
+    "headings": {
+      "aromas": "Aromas",
+      "acidity": "Acidez",
+      "palate": "Paladar",
+      "tannin": "Taninos",
+      "finish": "Final"
+    },
+    "acidity": {
+      "fresh": "fresca",
+      "lively": "viva",
+      "crisp": "vibrante",
+      "balanced": "equilibrada",
+      "soft": "suave",
+      "high": "alta",
+      "medium": "media",
+      "low": "baja",
+      "rather_low": "más bien baja"
+    },
+    "palate": {
+      "fresh": "frescura",
+      "balanced": "equilibrio",
+      "creamy": "cremosidad",
+      "round": "redondez",
+      "silky": "textura sedosa",
+      "structured": "estructura",
+      "concentrated": "concentración",
+      "elegant": "elegancia",
+      "juicy": "jugosidad",
+      "soft": "suavidad",
+      "complex": "complejidad"
+    },
+    "tannin": {
+      "fine": "finos",
+      "soft": "suaves",
+      "firm": "firmes",
+      "ripe": "maduros"
+    },
+    "finish": {
+      "long": "largo",
+      "medium_long": "medio a largo",
+      "medium": "medio",
+      "persistent": "persistente"
+    }
+  },
+  "ro": {
+    "headings": {
+      "aromas": "Arome",
+      "acidity": "Aciditate",
+      "palate": "Palat",
+      "tannin": "Taninuri",
+      "finish": "Postgust"
+    },
+    "acidity": {
+      "fresh": "proaspătă",
+      "lively": "vioaie",
+      "crisp": "răcoritoare",
+      "balanced": "echilibrată",
+      "soft": "blândă",
+      "high": "ridicată",
+      "medium": "medie",
+      "low": "scăzută",
+      "rather_low": "mai degrabă scăzută"
+    },
+    "palate": {
+      "fresh": "prospețime",
+      "balanced": "echilibru",
+      "creamy": "cremozitate",
+      "round": "rotunjime",
+      "silky": "textură mătăsoasă",
+      "structured": "structură",
+      "concentrated": "concentrație",
+      "elegant": "eleganță",
+      "juicy": "suculență",
+      "soft": "finețe",
+      "complex": "complexitate"
+    },
+    "tannin": {
+      "fine": "fine",
+      "soft": "moi",
+      "firm": "ferme",
+      "ripe": "coapte"
+    },
+    "finish": {
+      "long": "lung",
+      "medium_long": "mediu spre lung",
+      "medium": "mediu",
+      "persistent": "persistent"
+    }
+  },
+  "sk": {
+    "headings": {
+      "aromas": "Arómy",
+      "acidity": "Kyslosť",
+      "palate": "Chuť",
+      "tannin": "Taníny",
+      "finish": "Dochuť"
+    },
+    "acidity": {
+      "fresh": "svieža",
+      "lively": "živá",
+      "crisp": "rezká",
+      "balanced": "vyvážená",
+      "soft": "jemná",
+      "high": "vysoká",
+      "medium": "stredná",
+      "low": "nízka",
+      "rather_low": "skôr nízka"
+    },
+    "palate": {
+      "fresh": "sviežosť",
+      "balanced": "vyváženosť",
+      "creamy": "krémovosť",
+      "round": "okrúhlosť",
+      "silky": "hodvábnosť",
+      "structured": "štruktúra",
+      "concentrated": "koncentrácia",
+      "elegant": "elegancia",
+      "juicy": "šťavnatosť",
+      "soft": "jemnosť",
+      "complex": "komplexnosť"
+    },
+    "tannin": {
+      "fine": "jemné",
+      "soft": "mäkké",
+      "firm": "pevné",
+      "ripe": "zrelé"
+    },
+    "finish": {
+      "long": "dlhá",
+      "medium_long": "stredne dlhá až dlhá",
+      "medium": "stredne dlhá",
+      "persistent": "pretrvávajúca"
+    }
+  },
+  "ru": {
+    "headings": {
+      "aromas": "Ароматы",
+      "acidity": "Кислотность",
+      "palate": "Вкус",
+      "tannin": "Танины",
+      "finish": "Послевкусие"
+    },
+    "acidity": {
+      "fresh": "свежая",
+      "lively": "живая",
+      "crisp": "освежающая",
+      "balanced": "сбалансированная",
+      "soft": "мягкая",
+      "high": "высокая",
+      "medium": "средняя",
+      "low": "низкая",
+      "rather_low": "скорее низкая"
+    },
+    "palate": {
+      "fresh": "свежесть",
+      "balanced": "сбалансированность",
+      "creamy": "сливочная текстура",
+      "round": "округлость",
+      "silky": "шелковистость",
+      "structured": "структура",
+      "concentrated": "концентрация",
+      "elegant": "элегантность",
+      "juicy": "сочность",
+      "soft": "мягкость",
+      "complex": "сложность"
+    },
+    "tannin": {
+      "fine": "тонкие",
+      "soft": "мягкие",
+      "firm": "плотные",
+      "ripe": "зрелые"
+    },
+    "finish": {
+      "long": "долгое",
+      "medium_long": "среднее–долгое",
+      "medium": "среднее",
+      "persistent": "стойкое"
+    }
+  },
+  "uk": {
+    "headings": {
+      "aromas": "Аромати",
+      "acidity": "Кислотність",
+      "palate": "Смак",
+      "tannin": "Таніни",
+      "finish": "Післясмак"
+    },
+    "acidity": {
+      "fresh": "свіжа",
+      "lively": "жвава",
+      "crisp": "освіжаюча",
+      "balanced": "збалансована",
+      "soft": "м’яка",
+      "high": "висока",
+      "medium": "середня",
+      "low": "низька",
+      "rather_low": "радше низька"
+    },
+    "palate": {
+      "fresh": "свіжість",
+      "balanced": "збалансованість",
+      "creamy": "вершкова текстура",
+      "round": "округлість",
+      "silky": "шовковистість",
+      "structured": "структура",
+      "concentrated": "концентрація",
+      "elegant": "елегантність",
+      "juicy": "соковитість",
+      "soft": "м’якість",
+      "complex": "складність"
+    },
+    "tannin": {
+      "fine": "тонкі",
+      "soft": "м’які",
+      "firm": "виразні",
+      "ripe": "стиглі"
+    },
+    "finish": {
+      "long": "тривалий",
+      "medium_long": "середній–тривалий",
+      "medium": "середній",
+      "persistent": "стійкий"
+    }
+  },
+  "pl": {
+    "headings": {
+      "aromas": "Aromaty",
+      "acidity": "Kwasowość",
+      "palate": "Podniebienie",
+      "tannin": "Taniny",
+      "finish": "Finisz"
+    },
+    "acidity": {
+      "fresh": "świeża",
+      "lively": "żywa",
+      "crisp": "rześka",
+      "balanced": "zrównoważona",
+      "soft": "łagodna",
+      "high": "wysoka",
+      "medium": "średnia",
+      "low": "niska",
+      "rather_low": "raczej niska"
+    },
+    "palate": {
+      "fresh": "świeżość",
+      "balanced": "równowaga",
+      "creamy": "kremowość",
+      "round": "krągłość",
+      "silky": "jedwabistość",
+      "structured": "struktura",
+      "concentrated": "koncentracja",
+      "elegant": "elegancja",
+      "juicy": "soczystość",
+      "soft": "miękkość",
+      "complex": "złożoność"
+    },
+    "tannin": {
+      "fine": "drobnoziarniste",
+      "soft": "miękkie",
+      "firm": "mocne",
+      "ripe": "dojrzałe"
+    },
+    "finish": {
+      "long": "długi",
+      "medium_long": "średniodługi do długiego",
+      "medium": "średniodługi",
+      "persistent": "trwały"
+    }
+  },
+  "nl-BE": {
+    "headings": {
+      "aromas": "Aroma’s",
+      "acidity": "Zuren",
+      "palate": "Mondgevoel",
+      "tannin": "Tannines",
+      "finish": "Afdronk"
+    },
+    "acidity": {
+      "fresh": "fris",
+      "lively": "levendig",
+      "crisp": "knisperend",
+      "balanced": "evenwichtig",
+      "soft": "zacht",
+      "high": "hoog",
+      "medium": "gemiddeld",
+      "low": "laag",
+      "rather_low": "veeleer laag"
+    },
+    "palate": {
+      "fresh": "frisheid",
+      "balanced": "evenwicht",
+      "creamy": "romigheid",
+      "round": "rondheid",
+      "silky": "zijdezachte textuur",
+      "structured": "structuur",
+      "concentrated": "concentratie",
+      "elegant": "elegantie",
+      "juicy": "sappigheid",
+      "soft": "zachtheid",
+      "complex": "complexiteit"
+    },
+    "tannin": {
+      "fine": "fijn",
+      "soft": "zacht",
+      "firm": "stevig",
+      "ripe": "rijp"
+    },
+    "finish": {
+      "long": "lang",
+      "medium_long": "middellang tot lang",
+      "medium": "middellang",
+      "persistent": "aanhoudend"
+    }
+  },
+  "fil": {
+    "headings": {
+      "aromas": "Mga aroma",
+      "acidity": "Asim",
+      "palate": "Lasa",
+      "tannin": "Mga tanin",
+      "finish": "Naiiwang lasa"
+    },
+    "acidity": {
+      "fresh": "sariwa",
+      "lively": "masigla",
+      "crisp": "presko at malinaw",
+      "balanced": "balanse",
+      "soft": "banayad",
+      "high": "mataas",
+      "medium": "katamtaman",
+      "low": "mababa",
+      "rather_low": "medyo mababa"
+    },
+    "palate": {
+      "fresh": "kasariwaan",
+      "balanced": "balanse",
+      "creamy": "malakremang tekstura",
+      "round": "bilog na pakiramdam",
+      "silky": "malasedang tekstura",
+      "structured": "istruktura",
+      "concentrated": "konsentrasyon",
+      "elegant": "elegansiya",
+      "juicy": "makatas na katangian",
+      "soft": "lambot",
+      "complex": "masalimuot na katangian"
+    },
+    "tannin": {
+      "fine": "pino",
+      "soft": "banayad",
+      "firm": "matatag",
+      "ripe": "hinog"
+    },
+    "finish": {
+      "long": "mahaba",
+      "medium_long": "katamtaman hanggang mahaba",
+      "medium": "katamtaman",
+      "persistent": "nagtatagal"
+    }
+  },
+  "hi": {
+    "headings": {
+      "aromas": "सुगंध",
+      "acidity": "अम्लता",
+      "palate": "स्वाद",
+      "tannin": "टैनिन",
+      "finish": "अंतिम स्वाद"
+    },
+    "acidity": {
+      "fresh": "ताज़गीभरी",
+      "lively": "जीवंत",
+      "crisp": "स्फूर्तिदायक",
+      "balanced": "संतुलित",
+      "soft": "मुलायम",
+      "high": "उच्च",
+      "medium": "मध्यम",
+      "low": "कम",
+      "rather_low": "अपेक्षाकृत कम"
+    },
+    "palate": {
+      "fresh": "ताज़गी",
+      "balanced": "संतुलन",
+      "creamy": "मलाईदार बनावट",
+      "round": "गोलाई",
+      "silky": "रेशमी बनावट",
+      "structured": "सुस्पष्ट संरचना",
+      "concentrated": "सांद्रता",
+      "elegant": "सुरुचि",
+      "juicy": "रसदारपन",
+      "soft": "मुलायमपन",
+      "complex": "जटिलता"
+    },
+    "tannin": {
+      "fine": "महीन",
+      "soft": "मुलायम",
+      "firm": "दृढ़",
+      "ripe": "पके हुए"
+    },
+    "finish": {
+      "long": "लंबा",
+      "medium_long": "मध्यम से लंबा",
+      "medium": "मध्यम",
+      "persistent": "देर तक बना रहने वाला"
+    }
+  },
+  "zh": {
+    "headings": {
+      "aromas": "香气",
+      "acidity": "酸度",
+      "palate": "口感",
+      "tannin": "单宁",
+      "finish": "余味"
+    },
+    "acidity": {
+      "fresh": "清新",
+      "lively": "活泼",
+      "crisp": "爽脆",
+      "balanced": "平衡",
+      "soft": "柔和",
+      "high": "高",
+      "medium": "中等",
+      "low": "低",
+      "rather_low": "偏低"
+    },
+    "palate": {
+      "fresh": "清新",
+      "balanced": "平衡",
+      "creamy": "奶油质感",
+      "round": "圆润",
+      "silky": "丝滑",
+      "structured": "结构感",
+      "concentrated": "浓郁",
+      "elegant": "优雅",
+      "juicy": "多汁",
+      "soft": "柔和",
+      "complex": "层次丰富"
+    },
+    "tannin": {
+      "fine": "细腻",
+      "soft": "柔和",
+      "firm": "紧实",
+      "ripe": "成熟"
+    },
+    "finish": {
+      "long": "悠长",
+      "medium_long": "中长",
+      "medium": "中等",
+      "persistent": "持久"
+    }
+  },
+  "ja": {
+    "headings": {
+      "aromas": "香り",
+      "acidity": "酸味",
+      "palate": "味わい",
+      "tannin": "タンニン",
+      "finish": "余韻"
+    },
+    "acidity": {
+      "fresh": "爽やか",
+      "lively": "生き生きとしている",
+      "crisp": "きりっとしている",
+      "balanced": "バランスがよい",
+      "soft": "穏やか",
+      "high": "高い",
+      "medium": "中程度",
+      "low": "低い",
+      "rather_low": "やや低い"
+    },
+    "palate": {
+      "fresh": "爽やかさ",
+      "balanced": "バランス",
+      "creamy": "クリーミーな質感",
+      "round": "丸み",
+      "silky": "シルキーな質感",
+      "structured": "骨格",
+      "concentrated": "凝縮感",
+      "elegant": "エレガンス",
+      "juicy": "ジューシーさ",
+      "soft": "柔らかさ",
+      "complex": "複雑さ"
+    },
+    "tannin": {
+      "fine": "きめ細かい",
+      "soft": "柔らかい",
+      "firm": "しっかりしている",
+      "ripe": "熟している"
+    },
+    "finish": {
+      "long": "長い",
+      "medium_long": "中程度から長い",
+      "medium": "中程度",
+      "persistent": "持続性がある"
+    }
+  },
+  "ko": {
+    "headings": {
+      "aromas": "향",
+      "acidity": "산도",
+      "palate": "풍미",
+      "tannin": "타닌",
+      "finish": "여운"
+    },
+    "acidity": {
+      "fresh": "신선함",
+      "lively": "생동감 있음",
+      "crisp": "산뜻함",
+      "balanced": "균형 잡힘",
+      "soft": "부드러움",
+      "high": "높음",
+      "medium": "중간",
+      "low": "낮음",
+      "rather_low": "다소 낮음"
+    },
+    "palate": {
+      "fresh": "신선함",
+      "balanced": "균형",
+      "creamy": "크리미한 질감",
+      "round": "둥근 질감",
+      "silky": "실키한 질감",
+      "structured": "구조감",
+      "concentrated": "응축미",
+      "elegant": "우아함",
+      "juicy": "과즙미",
+      "soft": "부드러움",
+      "complex": "복합미"
+    },
+    "tannin": {
+      "fine": "섬세함",
+      "soft": "부드러움",
+      "firm": "탄탄함",
+      "ripe": "잘 익음"
+    },
+    "finish": {
+      "long": "길게 이어짐",
+      "medium_long": "중간 이상으로 이어짐",
+      "medium": "중간 길이",
+      "persistent": "오래 지속됨"
+    }
+  }
+}
