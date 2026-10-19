@@ -1,0 +1,24 @@
+PAPILLON HOTELS EXCLUSIVE WINE LIST
+TAM SITE KURULUM PAKETI
+
+WINDOWS'TA ACMA
+1. ZIP dosyasinin tamamini bir klasore cikarin. ZIP icinden calistirmayin.
+2. BASLAT.bat dosyasina cift tiklayin.
+3. Tarayici otomatik acilir. Site acikken siyah pencereyi acik birakin.
+4. Bitirdiginizde pencereyi kapatin.
+Ek program kurulumu gerekmez; Windows PowerShell kullanilir.
+
+WEB SUNUCUSUNA / GITHUB PAGES'E YUKLEME
+index.html, diger HTML/JS/CSS/JSON dosyalari ve assets klasorunu ayni
+dizin yapisiyla birlikte yukleyin. Giris dosyasi index.html'dir.
+Windows acilis dosyalarini ve bu metni sunucuya yuklemek zorunda degilsiniz.
+
+MAC / LINUX
+Python 3 varsa, bu klasorde terminal acip su komutu calistirin:
+python3 -m http.server 8080 --bind 127.0.0.1
+Ardindan http://127.0.0.1:8080 adresini acin.
+
+ONEMLI
+index.html'yi dogrudan cift tiklamak yerine yukaridaki acilis yontemini
+kullanin; tarayicilar dosya kipinde JSON veri yuklemelerini engelleyebilir.
+Tum gorseller, video, sarap verileri, 17 dil ve alakart menuleri dahildir.
